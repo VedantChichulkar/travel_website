@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Maharashtra Tourist Places">
+  <rect width="64" height="64" rx="14" fill="#14213d"/>
+  <path d="M14 45V19h8l10 14 10-14h8v26h-8V31L32 44 22 31v14z" fill="#fff"/>
+  <path d="M23 15h18" stroke="#ed6a3a" stroke-width="4" stroke-linecap="round"/>
+</svg>

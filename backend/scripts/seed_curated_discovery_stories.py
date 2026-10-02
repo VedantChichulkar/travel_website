@@ -1,0 +1,42 @@
+"""Intentionally apply reviewed discovery stories; never called at app startup."""
+
+import argparse
+import sys
+from pathlib import Path
+
+
+BACKEND_DIR = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(BACKEND_DIR))
+
+from app.data.discovery_stories import CURATED_DISCOVERY_STORIES
+from app.database import SessionLocal
+from app.services.curated_discovery_story_seed import (
+    CuratedDiscoveryStoryValidationError,
+    seed_curated_discovery_stories,
+)
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Validate and upsert Maharashtra Tourist Places' curated discovery stories.")
+    parser.add_argument("--dry-run", action="store_true", help="Validate and calculate changes, then roll back.")
+    args = parser.parse_args()
+    with SessionLocal() as db:
+        try:
+            report = seed_curated_discovery_stories(db, CURATED_DISCOVERY_STORIES)
+            if args.dry_run:
+                db.rollback()
+            else:
+                db.commit()
+        except CuratedDiscoveryStoryValidationError as error:
+            db.rollback()
+            print(f"Curated discovery story seed failed: {error}", file=sys.stderr)
+            return 1
+    mode = "dry-run" if args.dry_run else "committed"
+    print(f"Curated discovery story seed {mode} (dataset v1):")
+    for line in report.lines():
+        print(f"  {line}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

@@ -9,7 +9,7 @@ interface AuthContextValue {
   user: User | null;
   isAuthenticated: boolean;
   loading: boolean;
-  login: (credentials: LoginRequest) => Promise<void>;
+  login: (credentials: LoginRequest) => Promise<User>;
   logout: () => void;
   refresh: () => Promise<User | null>;
 }
@@ -31,12 +31,13 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   }, []);
 
   useEffect(() => {
-    void refresh();
+    void refresh().catch(() => setUser(null));
   }, [refresh]);
 
   const login = useCallback(async (credentials: LoginRequest) => {
     const currentUser = await authService.login(credentials);
     setUser(currentUser);
+    return currentUser;
   }, []);
 
   const logout = useCallback(() => {

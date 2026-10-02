@@ -3,7 +3,7 @@ from datetime import datetime
 
 from pydantic import BaseModel, ConfigDict, EmailStr, Field, field_validator
 
-from app.models.user import UserRole
+from app.models.user import UserRole, UserStatus
 
 
 PHONE_PATTERN = re.compile(r"^\+[1-9]\d{7,14}$")
@@ -14,6 +14,7 @@ class UserCreate(BaseModel):
     email: EmailStr
     phone: str
     password: str = Field(min_length=8, max_length=128)
+    role: UserRole = Field(default=UserRole.CUSTOMER)
 
     @field_validator("full_name")
     @classmethod
@@ -26,7 +27,7 @@ class UserCreate(BaseModel):
     @field_validator("email")
     @classmethod
     def normalize_email(cls, value: EmailStr) -> str:
-        return str(value).lower()
+        return str(value).strip().lower()
 
     @field_validator("phone")
     @classmethod
@@ -49,6 +50,13 @@ class UserCreate(BaseModel):
             raise ValueError("password must contain a number")
         return value
 
+    @field_validator("role")
+    @classmethod
+    def validate_public_registration_role(cls, value: UserRole) -> UserRole:
+        if value == UserRole.ADMIN:
+            raise ValueError("ADMIN accounts cannot be created via public registration")
+        return value
+
 
 class UserResponse(BaseModel):
     model_config = ConfigDict(from_attributes=True)
@@ -58,6 +66,10 @@ class UserResponse(BaseModel):
     email: EmailStr
     phone: str
     role: UserRole
+    status: UserStatus
     is_active: bool
+    is_email_verified: bool
+    is_phone_verified: bool
+    last_login_at: datetime | None = None
     created_at: datetime
     updated_at: datetime

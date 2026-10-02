@@ -1,50 +1,15 @@
 "use client";
 
-import { AdminGuard } from "@/components/AdminGuard";
-import { AdminNavigation } from "@/components/AdminNavigation";
-import { useAdminAuth } from "@/context/AdminAuthContext";
+import Link from "next/link";
+import { useEffect, useState } from "react";
+import { AdminShell } from "@/components/AdminShell";
+import { controlService, type Overview } from "@/services/control.service";
 
-export default function DashboardPage() {
-  return (
-    <AdminGuard>
-      <DashboardContent />
-    </AdminGuard>
-  );
+export default function DashboardPage() { return <AdminShell><Dashboard /></AdminShell>; }
+function Dashboard() {
+  const [data, setData] = useState<Overview | null>(null); const [error, setError] = useState("");
+  useEffect(() => { queueMicrotask(() => void controlService.overview().then(setData).catch((cause) => setError(cause instanceof Error ? cause.message : "Overview could not be loaded."))); }, []);
+  const cards = data ? [["Hotel verification", data.governance.verifications_pending ?? 0, "Applications awaiting an explicit decision", "/verifications"], ["Room approvals", data.governance.rooms_pending ?? 0, "Submitted room types awaiting review", "/rooms"], ["Booking issues", data.bookings.no_shows + data.bookings.operational_issues, `${data.bookings.no_shows} no-shows · ${data.bookings.operational_issues} check-in issues`, "/bookings"], ["Financial operations", data.finance.payment_failures + data.finance.payment_reconciliations + data.finance.refund_reviews, `${data.finance.payment_reconciliations} payments · ${data.finance.refund_reviews} refunds need attention`, "/financial-operations"], ["Safari operations", data.governance.safaris_awaiting_action ?? 0, "Requests requiring an operator action", "/safaris"], ["Advertising review", data.governance.advertising_pending ?? 0, "Paid campaigns awaiting review", "/advertising"], ["Settlements & payouts", data.finance.settlements_on_hold + data.finance.settlements_processing, `${data.finance.settlements_on_hold} on hold`, "/settlements"], ["Conversations", data.governance.open_disputes, "Open disputes requiring governed inspection", "/conversations"]] as const : [];
+  return <div className="mx-auto max-w-7xl"><div className="flex flex-wrap items-end justify-between gap-4"><div><p className="eyebrow">Attention queues</p><h1 className="page-title">What requires Maharashtra Tourist Places&apos; attention?</h1><p className="page-subtitle">Genuine operational, financial, trust, and governance queues from the backend.</p></div><Link className="btn-secondary" href="/audit">Open audit logs</Link></div>{error && <p role="alert" className="mt-6 rounded-xl bg-red-50 p-4 text-sm font-semibold text-red-700">{error}</p>}{!data ? <div className="mt-7 grid gap-4 sm:grid-cols-2 xl:grid-cols-4">{[1,2,3,4,5,6,7,8].map((key) => <div key={key} className="h-36 animate-pulse rounded-2xl bg-slate-200" />)}</div> : <div className="mt-7 grid gap-4 sm:grid-cols-2 xl:grid-cols-4">{cards.map(([label, value, detail, href]) => <Link href={href} key={label} className="panel transition hover:border-blue-300 focus-visible:outline-2 focus-visible:outline-blue-600"><span className="text-xs font-bold uppercase tracking-wider text-slate-500">{label}</span><strong className="mt-3 block text-4xl tracking-tight text-slate-950">{value}</strong><span className="mt-2 block text-sm text-slate-500">{detail}</span></Link>)}</div>}<div className="mt-7 grid gap-4 lg:grid-cols-2"><section className="panel"><h2 className="section-title">Infrastructure and governance</h2><dl className="mt-5 space-y-3 text-sm"><Row label="Provider-unavailable notification jobs" value={data?.governance.delivery_jobs_unavailable ?? 0} /><Row label="Open review challenges" value={data?.governance.review_challenges ?? 0} /><Row label="Suspended hotels" value={data?.hotels.suspended ?? 0} /><Row label="Suspended users" value={data?.users.suspended ?? 0} /></dl></section><section className="panel"><h2 className="section-title">Privacy boundary</h2><p className="mt-4 text-sm leading-6 text-slate-600">Customer contact details remain masked. Private conversation content requires a reasoned inspection, documents use authorized download routes, and audit records cannot be changed from this interface.</p></section></div></div>;
 }
-
-function DashboardContent() {
-  const { admin } = useAdminAuth();
-  if (!admin) return null;
-
-  return (
-    <div className="min-h-screen">
-      <AdminNavigation />
-      <main className="mx-auto max-w-6xl px-4 py-10 sm:px-6">
-        <div className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm sm:p-8">
-          <div className="flex flex-wrap items-start justify-between gap-4 border-b border-slate-200 pb-6">
-            <div>
-              <p className="text-sm font-semibold uppercase tracking-[0.16em] text-indigo-700">Administration</p>
-              <h1 className="mt-2 text-3xl font-bold tracking-tight">Admin Dashboard</h1>
-            </div>
-            <span className="rounded-full bg-emerald-50 px-3 py-1 text-sm font-semibold text-emerald-700">Backend connected</span>
-          </div>
-          <dl className="mt-6 grid gap-6 sm:grid-cols-3">
-            <Detail label="Administrator" value={admin.full_name} />
-            <Detail label="Email" value={admin.email} />
-            <Detail label="Role" value={admin.role} />
-          </dl>
-          <p className="mt-8 rounded-lg bg-slate-50 p-4 text-sm text-slate-600">Administrator authentication is active. Business management modules have not been enabled yet.</p>
-        </div>
-      </main>
-    </div>
-  );
-}
-
-function Detail({ label, value }: { label: string; value: string }) {
-  return (
-    <div>
-      <dt className="text-sm font-medium text-slate-500">{label}</dt>
-      <dd className="mt-1 break-words font-semibold text-slate-950">{value}</dd>
-    </div>
-  );
-}
+function Row({ label, value }: { label: string; value: number }) { return <div className="flex justify-between border-b border-slate-100 pb-3 last:border-0"><dt className="text-slate-600">{label}</dt><dd className="font-bold">{value}</dd></div>; }

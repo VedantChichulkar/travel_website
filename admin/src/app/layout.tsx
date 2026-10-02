@@ -5,8 +5,9 @@ import { AdminAuthProvider } from "@/context/AdminAuthContext";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Travel Booking Admin",
-  description: "Administrator access for Travel Booking",
+  title: "Maharashtra Tourist Places Control Center",
+  description: "Maharashtra Tourist Places platform operations and governance",
+  robots: { index: false, follow: false, nocache: true },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

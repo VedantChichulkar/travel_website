@@ -1,0 +1,9 @@
+export type PartnerStatusDisplay = { label: string; className: string };
+const good = "border-emerald-200 bg-emerald-50 text-emerald-800", info = "border-blue-200 bg-blue-50 text-blue-800", warn = "border-amber-200 bg-amber-50 text-amber-800", bad = "border-red-200 bg-red-50 text-red-800", quiet = "border-slate-200 bg-slate-50 text-slate-700";
+const statuses: Record<string, PartnerStatusDisplay> = {
+  ACTIVE:{label:"Active",className:good},APPROVED:{label:"Approved",className:good},PAID:{label:"Paid",className:good},BOOKABLE:{label:"Bookable",className:good},SETTLED:{label:"Settled",className:good},SUCCESS:{label:"Completed",className:good},SUCCEEDED:{label:"Completed",className:good},CONFIRMED:{label:"Confirmed",className:good},
+  PENDING:{label:"Pending",className:warn},PAYMENT_PENDING:{label:"Payment pending",className:warn},PROCESSING:{label:"Processing",className:info},ELIGIBLE:{label:"Eligible",className:info},ON_HOLD:{label:"On hold",className:warn},NEEDS_CHANGES:{label:"Changes requested",className:warn},ADDITIONAL_INFO_REQUIRED:{label:"Information required",className:warn},BOOKING_ON_REQUEST:{label:"Booking on request",className:info},
+  REJECTED:{label:"Rejected",className:bad},REQUEST_REJECTED:{label:"Declined",className:bad},FAILED:{label:"Failed",className:bad},SUSPENDED:{label:"Suspended",className:bad},RECONCILIATION_REQUIRED:{label:"Manual review",className:warn},MANUAL_REVIEW:{label:"Manual review",className:warn},
+  DRAFT:{label:"Draft",className:quiet},PAUSED:{label:"Paused",className:quiet},INACTIVE:{label:"Inactive",className:quiet},REQUEST_EXPIRED:{label:"Expired",className:quiet},NOT_STARTED:{label:"Not started",className:quiet},
+};
+export function partnerStatus(status: string | null | undefined): PartnerStatusDisplay { if (!status) return {label:"Not available",className:quiet}; return statuses[status] ?? {label:status.replaceAll("_"," ").toLowerCase().replace(/^./,(value)=>value.toUpperCase()),className:quiet}; }

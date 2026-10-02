@@ -1,0 +1,10 @@
+export type AdPlacement = "HOMEPAGE_BANNER" | "DESTINATION_PROMOTION";
+export type CampaignStatus = "DRAFT" | "PAYMENT_PENDING" | "PENDING_REVIEW" | "NEEDS_CHANGES" | "SCHEDULED" | "ACTIVE" | "EXPIRED" | "REJECTED" | "PAUSED" | "CANCELLED";
+export interface AdvertisingPlan { code: string; name: string; placement: AdPlacement; amount: string; currency: string; duration_days: number }
+export interface AdvertisingConfig { plans: AdvertisingPlan[]; rotation_seconds: number }
+export type AdvertiserType = "HOTEL" | "EXTERNAL";
+export type AdvertiserStatus = "ACTIVE" | "SUSPENDED";
+export interface AdvertiserProfile { id: number; public_id: string; business_name: string; contact_person: string; business_email: string; phone: string; category: string; description?: string; website?: string; status: AdvertiserStatus; suspended_reason?: string; created_at: string; updated_at: string }
+export interface Campaign { id: number; public_id: string; advertiser_type: AdvertiserType; advertiser_profile_id?: number; advertiser_name?: string; advertiser_status?: AdvertiserStatus; hotel_id?: number; hotel_name?: string; campaign_name?: string; headline?: string; short_copy?: string; target_url?: string; placement: AdPlacement; plan_code: string; district_name?: string; destination_name?: string; creative_url?: string; alt_text?: string; creative_rights_confirmed: boolean; creative_source?: string; status: CampaignStatus; start_at: string; end_at: string; price_amount: string; currency: string; payment_status: string; payment_reference?: string; review_reason?: string; refund_review_required: boolean; version: number; impressions: number; clicks: number; submitted_at?: string; reviewed_at?: string; created_at: string }
+export interface PublicAd { id: string; placement: AdPlacement; creative_url: string; alt_text: string; sponsor_label: string; advertiser_name: string; headline?: string; short_copy?: string; advertiser_type: AdvertiserType; is_external: boolean; destination_url: string }
+export interface PublicAdList { items: PublicAd[]; rotation_seconds: number }

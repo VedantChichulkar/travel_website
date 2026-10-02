@@ -1,17 +1,47 @@
+import type { Metadata } from "next";
 import Link from "next/link";
+
+import { DestinationPreview } from "@/src/components/DestinationPreview";
+import { ExperiencesSection } from "@/src/components/ExperiencesSection";
+import { FeaturedHotels } from "@/src/components/FeaturedHotels";
+import { Hero } from "@/src/components/Hero";
+import { SafariTeaser } from "@/src/components/SafariTeaser";
+import { SectionHeading } from "@/src/components/SectionHeading";
+import { SponsoredRotator } from "@/src/components/SponsoredRotator";
+import { WhyMaharashtraTouristPlaces } from "@/src/components/WhyMaharashtraTouristPlaces";
+
+export const metadata: Metadata = {
+  title: "Discover Maharashtra, Your Way",
+  description: "Explore Maharashtra destinations, search active hotels, and discover supported jungle safari experiences with Maharashtra Tourist Places.",
+  alternates: { canonical: "/" },
+};
 
 export default function Home() {
   return (
-    <section className="mx-auto flex w-full max-w-6xl flex-1 items-center px-4 py-20 sm:px-6">
-      <div className="max-w-2xl">
-        <p className="mb-4 text-sm font-semibold uppercase tracking-[0.2em] text-sky-700">Customer portal</p>
-        <h1 className="text-4xl font-bold tracking-tight text-slate-950 sm:text-6xl">Your next journey starts here.</h1>
-        <p className="mt-6 max-w-xl text-lg leading-8 text-slate-600">Create your customer account or sign in to manage your travel profile. Booking features are coming next.</p>
-        <div className="mt-8 flex flex-wrap gap-3">
-          <Link href="/register" className="rounded-lg bg-sky-700 px-5 py-3 font-semibold text-white hover:bg-sky-800">Create account</Link>
-          <Link href="/login" className="rounded-lg border border-slate-300 bg-white px-5 py-3 font-semibold text-slate-800 hover:bg-slate-100">Sign in</Link>
+    <>
+      <Hero />
+      <section id="destinations" className="container-shell py-20">
+        <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
+          <SectionHeading eyebrow="Explore Maharashtra" title="Districts with stories of their own" description="Start with live destination data, then follow the landscape, local context, and available places to stay." />
+          <Link href="/destinations" className="secondary-button shrink-0">Explore all Maharashtra <span aria-hidden className="ml-2">→</span></Link>
         </div>
-      </div>
-    </section>
+        <div className="mt-9"><DestinationPreview /></div>
+      </section>
+      <section className="border-b border-[var(--line)] bg-[var(--surface-muted)] py-20">
+        <div className="container-shell">
+          <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end"><SectionHeading eyebrow="Jungle safaris" title="Begin with the forest" description="Explore active safari listings and send an availability request. Availability, pricing, and external booking confirmation follow the safari workflow." /><Link href="/safaris" className="secondary-button shrink-0">Explore safaris <span aria-hidden className="ml-2">→</span></Link></div>
+          <div className="mt-10"><SafariTeaser /></div>
+        </div>
+      </section>
+      <SponsoredRotator placement="HOMEPAGE_BANNER" />
+      <section className="border-b border-[var(--line)] bg-white py-20">
+        <div className="container-shell">
+          <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end"><SectionHeading eyebrow="Discover stays" title="A considered place to pause" description="Browse active properties from the Maharashtra Tourist Places catalogue. Starting prices and availability depend on your selected dates." /><Link href="/hotels" className="secondary-button shrink-0">View all hotels <span aria-hidden className="ml-2">→</span></Link></div>
+          <div className="mt-9"><FeaturedHotels /></div>
+        </div>
+      </section>
+      <ExperiencesSection />
+      <WhyMaharashtraTouristPlaces />
+    </>
   );
 }

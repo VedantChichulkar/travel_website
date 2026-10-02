@@ -1,0 +1,25 @@
+"use client";
+
+import Link from "next/link";
+import { FormEvent, useEffect, useState } from "react";
+
+import { ApiError } from "@/src/services/api";
+import { bookingService, CustomerBooking, ReviewData, ReviewInput } from "@/src/services/booking.service";
+
+const fields: Array<[keyof Omit<ReviewInput, "review_text">, string]> = [["overall_rating", "Overall"], ["cleanliness_rating", "Cleanliness"], ["service_rating", "Staff / service"], ["location_rating", "Location"], ["room_quality_rating", "Room quality"], ["value_rating", "Value for money"]];
+const initial: ReviewInput = { overall_rating: 5, cleanliness_rating: 5, service_rating: 5, location_rating: 5, room_quality_rating: 5, value_rating: 5, review_text: "" };
+
+export function VerifiedStayReviewForm({ bookingId, embedded = false }: { bookingId: number; embedded?: boolean }) {
+  const [booking, setBooking] = useState<CustomerBooking | null>(null);
+  const [review, setReview] = useState<ReviewData | null>(null);
+  const [form, setForm] = useState<ReviewInput>(initial);
+  const [loading, setLoading] = useState(true);
+  const [busy, setBusy] = useState(false);
+  const [error, setError] = useState("");
+  useEffect(() => { let active = true; void Promise.all([bookingService.getBooking(bookingId), bookingService.getReview(bookingId).catch((cause) => { if (cause instanceof ApiError && cause.status === 404) return null; throw cause; })]).then(([stay, existing]) => { if (active) { setBooking(stay); setReview(existing); } }).catch((cause) => active && setError(cause instanceof Error ? cause.message : "Review eligibility could not be loaded.")).finally(() => active && setLoading(false)); return () => { active = false; }; }, [bookingId]);
+  async function submit(event: FormEvent) { event.preventDefault(); setBusy(true); setError(""); try { setReview(await bookingService.createReview(bookingId, form)); } catch (cause) { setError(cause instanceof Error ? cause.message : "Your review could not be submitted."); } finally { setBusy(false); } }
+  if (loading) return <div className={embedded ? "" : "container-shell py-16"}><div className="skeleton h-80 rounded-2xl" /></div>;
+  return <div className={embedded ? "max-w-3xl" : "container-shell max-w-3xl py-12"}><Link href="/account/reviews" className="text-sm font-black text-[var(--brand)]">← Your reviews</Link><div className="mt-7 content-card"><p className="eyebrow">Verified stay review</p><h1 className="mt-2 text-3xl font-black text-[var(--brand-strong)]">{booking?.hotel.name ?? "Your stay"}</h1><p className="mt-2 text-sm text-slate-500">{booking?.booking_reference} · {booking?.check_in} to {booking?.check_out}</p>{error && <p role="alert" className="mt-5 rounded-xl bg-red-50 p-4 text-sm font-semibold text-red-700">{error}</p>}{review ? <ReviewReceipt review={review} /> : booking?.status !== "CHECKED_OUT" ? <p className="mt-6 rounded-xl bg-amber-50 p-4 text-sm text-amber-800">A review becomes available only after Maharashtra Tourist Places records checkout for this stay.</p> : <form className="mt-7" onSubmit={submit}><div className="grid gap-4 sm:grid-cols-2">{fields.map(([name, label]) => <label key={name} className="field-label">{label}<select className="field-input mt-2" value={form[name]} onChange={(event) => setForm({ ...form, [name]: Number(event.target.value) })}>{[5,4,3,2,1].map((value) => <option key={value} value={value}>{value} star{value === 1 ? "" : "s"}</option>)}</select></label>)}</div><label className="field-label mt-5 block">Written review<textarea required minLength={10} maxLength={5000} rows={7} className="field-input mt-2" value={form.review_text} onChange={(event) => setForm({ ...form, review_text: event.target.value })} placeholder="Share specific, honest details about your completed stay." /></label><p className="mt-3 text-xs leading-5 text-slate-500">Low ratings and normal negative feedback are publishable. Content containing personal information, threats, spam, or extortion indicators may be held for moderation.</p><button disabled={busy || form.review_text.trim().length < 10} className="primary-button mt-5">{busy ? "Submitting…" : "Publish verified review"}</button></form>}</div></div>;
+}
+
+function ReviewReceipt({ review }: { review: ReviewData }) { return <section className="mt-7"><div className="flex flex-wrap items-center gap-2"><span className="status-pill bg-emerald-50 text-emerald-700">✓ Verified Stay</span><span className="status-pill bg-slate-100 text-slate-700">{review.moderation_status.replaceAll("_", " ")}</span></div><p className="mt-5 text-lg font-black">{review.overall_rating} / 5</p><p className="mt-3 whitespace-pre-wrap leading-7 text-slate-600">{review.review_text}</p>{review.moderation_status === "PENDING_REVIEW" && <p className="mt-4 rounded-xl bg-amber-50 p-4 text-sm text-amber-800">This review is awaiting a safety review before public display.</p>}{review.hotel_response && <div className="mt-5 rounded-xl bg-slate-50 p-4 text-sm"><strong>Response from {review.hotel.name}</strong><p className="mt-2 text-slate-600">{review.hotel_response.response_text}</p></div>}</section>; }

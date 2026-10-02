@@ -1,0 +1,26 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "About Maharashtra Tourist Places",
+  description: "Learn how Maharashtra Tourist Places connects Maharashtra destination discovery, active hotel stays, managed Safari assistance, and local culture.",
+  alternates: { canonical: "/about" },
+  openGraph: { title: "About Maharashtra Tourist Places", description: "A Maharashtra-first travel discovery and booking platform.", url: "/about" },
+};
+
+const CAPABILITIES = [
+  { title: "Hotels", body: "Browse active, approved properties and use backend-authoritative room availability, pricing, booking, payment, and cancellation workflows.", href: "/hotels", cta: "Explore hotels" },
+  { title: "Managed Jungle Safari assistance", body: "Request availability, provide configured traveller details after availability, review the final price, and wait for official confirmation or permit processing.", href: "/safaris", cta: "Explore Safaris" },
+  { title: "Experiences & culture", body: "Use curated heritage, nature, food, festival, art, and coastal themes to move naturally into canonical Maharashtra destinations.", href: "/experiences", cta: "Explore experiences" },
+] as const;
+
+export default function AboutPage() {
+  return <>
+    <header className="border-b border-[var(--line)] bg-white"><div className="container-shell max-w-4xl py-14 text-center sm:py-20"><p className="eyebrow">About Maharashtra Tourist Places</p><h1 className="page-title mt-3 text-balance">A clearer way to discover and plan Maharashtra travel.</h1><p className="body-lead mx-auto mt-5 max-w-3xl">Maharashtra Tourist Places brings destination discovery, active hotel stays, managed Safari assistance, and Maharashtra culture into one independent travel platform.</p><p className="mx-auto mt-4 max-w-2xl text-sm leading-6 text-slate-500">Maharashtra Tourist Places is not a government platform and does not represent the Maharashtra Forest Department. Safari availability and official confirmation remain external, manual outcomes.</p></div></header>
+    <main>
+      <section className="container-shell py-16 sm:py-20" aria-labelledby="what-heading"><div className="grid gap-10 lg:grid-cols-[.72fr_1.28fr]"><div><p className="eyebrow">What is Maharashtra Tourist Places?</p><h2 id="what-heading" className="section-title mt-3">Maharashtra-focused by design</h2><p className="body-lead mt-4">Destinations provide the context. Hotels, Safaris, and cultural discovery provide practical next steps without pretending that every travel idea is a directly bookable product.</p></div><div className="grid gap-4 md:grid-cols-3">{CAPABILITIES.map((item) => <article key={item.title} className="flex flex-col rounded-2xl border border-[var(--line)] bg-white p-6 shadow-[var(--shadow-sm)]"><h3 className="text-xl font-black text-[var(--brand)]">{item.title}</h3><p className="mt-3 text-sm leading-6 text-slate-600">{item.body}</p><Link href={item.href} className="mt-auto pt-6 text-sm font-black text-[var(--accent)] hover:text-[var(--accent-strong)]">{item.cta} <span aria-hidden>→</span></Link></article>)}</div></div></section>
+      <section className="border-y border-[var(--line)] bg-white py-16 sm:py-20" aria-labelledby="help-heading"><div className="container-shell"><div className="max-w-2xl"><p className="eyebrow">How Maharashtra Tourist Places helps</p><h2 id="help-heading" className="section-title mt-3">Product capabilities you can verify</h2></div><div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">{[["Server-verified payments", "Payment status comes from signed provider callbacks and reconciliation—not a browser claim."], ["Managed Safari assistance", "A request is checked manually before traveller details, payment, processing, and official confirmation."], ["Verified hotel onboarding", "Paying a processing fee does not verify a hotel; approval remains an Admin decision."], ["Booking support", "Customer references connect support enquiries to the relevant workflow without exposing internal IDs."]].map(([title, body]) => <article key={title} className="rounded-2xl border border-[var(--line)] bg-[var(--surface-muted)] p-5"><h3 className="font-black text-[var(--brand)]">{title}</h3><p className="mt-2 text-sm leading-6 text-slate-600">{body}</p></article>)}</div></div></section>
+      <section className="container-shell py-16"><div className="rounded-2xl bg-[var(--brand)] p-8 text-white sm:flex sm:items-center sm:justify-between sm:gap-8 sm:p-10"><div><p className="text-xs font-black uppercase tracking-[.16em] text-[var(--accent-on-dark)]">For hotel businesses</p><h2 className="mt-3 text-2xl font-black">Bring your property to Maharashtra Tourist Places.</h2><p className="mt-3 max-w-2xl text-sm leading-6 text-slate-200">Start with the existing partner registration, onboarding, verification-fee, and Admin review flow.</p></div><div className="mt-6 flex shrink-0 flex-wrap gap-3 sm:mt-0"><Link href="/partner/register" className="inline-flex min-h-12 items-center rounded-xl bg-white px-5 text-sm font-black text-[var(--brand)]">Become a partner</Link><Link href="/contact?type=HOTEL_PARTNER" className="inline-flex min-h-12 items-center rounded-xl border border-white/30 px-5 text-sm font-black text-white">Ask a question</Link></div></div></section>
+    </main>
+  </>;
+}

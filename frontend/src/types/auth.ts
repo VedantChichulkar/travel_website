@@ -1,4 +1,5 @@
-export type UserRole = "USER" | "ADMIN";
+export type UserRole = "CUSTOMER" | "USER" | "HOTEL_PARTNER" | "ADMIN";
+export type UserStatus = "ACTIVE" | "INACTIVE" | "SUSPENDED";
 
 export interface User {
   id: number;
@@ -6,7 +7,11 @@ export interface User {
   email: string;
   phone: string;
   role: UserRole;
+  status: UserStatus;
   is_active: boolean;
+  is_email_verified: boolean;
+  is_phone_verified: boolean;
+  last_login_at?: string | null;
   created_at: string;
   updated_at: string;
 }
@@ -16,11 +21,13 @@ export interface RegisterRequest {
   email: string;
   phone: string;
   password: string;
+  role?: UserRole;
 }
 
 export interface LoginRequest {
   email: string;
   password: string;
+  portal?: UserRole;
 }
 
 export interface TokenResponse {
@@ -30,10 +37,9 @@ export interface TokenResponse {
 }
 
 export interface AuthResponse extends TokenResponse {
-  refresh_token: string;
   user: User;
 }
 
 export interface RefreshTokenRequest {
-  refresh_token: string;
+  refresh_token?: string;
 }

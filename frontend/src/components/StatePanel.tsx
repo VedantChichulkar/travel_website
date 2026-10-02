@@ -1,0 +1,3 @@
+export function StatePanel({ title, message, loading = false }: { title: string; message: string; loading?: boolean }) {
+  return <div className="surface-card p-8 text-center sm:p-12">{loading ? <div className="mx-auto grid max-w-md gap-3"><div className="skeleton mx-auto h-4 w-32 rounded" /><div className="skeleton mx-auto h-8 w-64 rounded" /><div className="skeleton mx-auto h-4 w-full rounded" /></div> : <><span aria-hidden className="mx-auto grid h-12 w-12 place-items-center rounded-2xl bg-[var(--accent-soft)] font-black text-[var(--accent-strong)]">—</span><h2 className="mt-5 text-xl font-black tracking-tight text-[var(--brand-strong)]">{title}</h2><p className="mx-auto mt-2 max-w-xl text-sm leading-6 text-slate-500">{message}</p></>}</div>;
+}

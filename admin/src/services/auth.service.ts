@@ -1,23 +1,22 @@
-import { api, ApiError } from "@/services/api";
+import { api, ApiError, type PortalErrorDetail } from "@/services/api";
 import { tokenStorage } from "@/services/token-storage";
 import type {
   AuthResponse,
   LoginRequest,
-  RefreshTokenRequest,
   TokenResponse,
   User,
 } from "@/types/auth";
 
 export class AdminAccessError extends Error {
-  constructor() {
-    super("This account does not have administrator access.");
+  constructor(public readonly portal?: PortalErrorDetail) {
+    super(portal?.message ?? "This account does not have administrator access.");
     this.name = "AdminAccessError";
   }
 }
 
 async function verifyAdminAccess(accessToken: string): Promise<void> {
   try {
-    await api.get<{ status: string; message: string }>("/admin/test", accessToken);
+    await api.get<{ users: Record<string, number> }>("/admin/control/overview", accessToken);
   } catch (error) {
     if (error instanceof ApiError && error.status === 403) throw new AdminAccessError();
     throw error;
@@ -25,13 +24,8 @@ async function verifyAdminAccess(accessToken: string): Promise<void> {
 }
 
 async function refreshToken(): Promise<string | null> {
-  const tokens = tokenStorage.get();
-  if (!tokens) return null;
-
   try {
-    const response = await api.post<TokenResponse, RefreshTokenRequest>("/auth/refresh", {
-      refresh_token: tokens.refreshToken,
-    });
+    const response = await api.post<TokenResponse, Record<string, never>>("/auth/refresh", {});
     tokenStorage.updateAccessToken(response.access_token);
     return response.access_token;
   } catch {
@@ -42,7 +36,10 @@ async function refreshToken(): Promise<string | null> {
 
 async function currentUserWithRefresh(): Promise<User | null> {
   const tokens = tokenStorage.get();
-  if (!tokens) return null;
+  if (!tokens) {
+    const accessToken = await refreshToken();
+    return accessToken ? api.get<User>("/users/me", accessToken) : null;
+  }
 
   try {
     return await api.get<User>("/users/me", tokens.accessToken);
@@ -62,7 +59,16 @@ async function currentUserWithRefresh(): Promise<User | null> {
 
 export const authService = {
   async login(credentials: LoginRequest): Promise<User> {
-    const response = await api.post<AuthResponse, LoginRequest>("/auth/login", credentials);
+    let response: AuthResponse;
+    try {
+      response = await api.post<AuthResponse, LoginRequest>("/auth/login", { ...credentials, portal: "ADMIN" });
+    } catch (error) {
+      const detail = error instanceof ApiError ? error.details : undefined;
+      if (detail && !Array.isArray(detail) && typeof detail !== "string" && detail.code === "WRONG_PORTAL") {
+        throw new AdminAccessError(detail);
+      }
+      throw error;
+    }
     try {
       await verifyAdminAccess(response.access_token);
     } catch (error) {
@@ -76,7 +82,6 @@ export const authService = {
 
     tokenStorage.set({
       accessToken: response.access_token,
-      refreshToken: response.refresh_token,
     });
     return response.user;
   },
@@ -109,5 +114,6 @@ export const authService = {
 
   logout(): void {
     tokenStorage.clear();
+    void api.post<void, Record<string, never>>("/auth/logout", {}).catch(() => undefined);
   },
 };

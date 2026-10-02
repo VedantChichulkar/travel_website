@@ -12,7 +12,7 @@ sys.path.insert(0, dirname(dirname(abspath(__file__))))
 
 from app.core.config import settings
 from app.models.base import Base
-from app.models import User  # noqa: F401 - registers model metadata for autogenerate
+from app import models  # noqa: F401 - registers all model metadata for autogenerate
 from app.database import engine
 
 # this is the Alembic Config object, which provides

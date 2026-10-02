@@ -1,0 +1,52 @@
+name: vayora
+
+services:
+  backend:
+    build: ./backend
+    env_file: ./backend/.env.production
+    environment:
+      OPERATIONS_SCHEDULER_ENABLED: "false"
+    command: ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000", "--proxy-headers", "--forwarded-allow-ips", "${TRUSTED_PROXY_IPS:?set TRUSTED_PROXY_IPS}"]
+    restart: unless-stopped
+    volumes:
+      - vayora_media:/app/uploads
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/api/v1/health/ready', timeout=3)"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+
+  worker:
+    build: ./backend
+    env_file: ./backend/.env.production
+    environment:
+      OPERATIONS_SCHEDULER_ENABLED: "true"
+    command: ["python", "-m", "app.worker"]
+    restart: unless-stopped
+    volumes:
+      - vayora_media:/app/uploads
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL}
+        NEXT_PUBLIC_SITE_URL: ${NEXT_PUBLIC_SITE_URL}
+        NEXT_PUBLIC_ADMIN_PORTAL_URL: ${NEXT_PUBLIC_ADMIN_PORTAL_URL}
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+
+  admin:
+    build:
+      context: ./admin
+      args:
+        NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL}
+        NEXT_PUBLIC_CUSTOMER_PORTAL_URL: ${NEXT_PUBLIC_SITE_URL}
+    restart: unless-stopped
+    ports:
+      - "3001:3000"
+
+volumes:
+  vayora_media:

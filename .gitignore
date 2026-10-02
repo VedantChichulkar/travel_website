@@ -21,6 +21,8 @@ node_modules/
 dist/
 build/
 out/
+backend/uploads/
+*.log
 
 # IDE / System files
 .vscode/*
@@ -28,3 +30,7 @@ out/
 .idea/
 .DS_Store
 Thumbs.db
+frontend/.next-build-discovery/
+frontend/.next-build-discovery*/
+admin/.next-build-discovery*/
+admin/.next-build-discovery*/
