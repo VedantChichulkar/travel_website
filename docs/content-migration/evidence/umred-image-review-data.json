@@ -1,0 +1,1104 @@
+{
+  "review_records": [
+    {
+      "family_id": "1c10448b17dc",
+      "group": "Gandhi Sagar Lake",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/gandhi-sagar-lake/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/shivling-Gandhi-Sagar-Lake-Gaotalav-Umred​.webp",
+      "original_filename": "shivling-Gandhi-Sagar-Lake-Gaotalav-Umred​.webp",
+      "proposed_entity": "Gandhi Sagar Lake, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/1c10448b17dc.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 288964,
+      "checksum": "7d50a001e14a2d7f52a6b1eaeed2598129d218e4d28d31d77e6a4579f8863144",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "7beb9d96340cdcaa",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "ENTITY_RESOLUTION_REQUIRED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity. Resolve lake/park Place identity separately; staging does not authorize attachment."
+    },
+    {
+      "family_id": "87694c5369cf",
+      "group": "Gandhi Sagar Lake",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/gandhi-sagar-lake/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/shiv-temple-Gandhi-Sagar-Lake-Gaotalav-Umred%E2%80%8B.webp",
+      "original_filename": "shiv-temple-Gandhi-Sagar-Lake-Gaotalav-Umred​.webp",
+      "proposed_entity": "Gandhi Sagar Lake, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/87694c5369cf.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 243566,
+      "checksum": "cdfc82d1f0af08fb27314829fb9cbd1523d3954b0d03c96ba8e26744e51f85aa",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "dc8d9b9b8888c9c0",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "ENTITY_RESOLUTION_REQUIRED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity. Resolve lake/park Place identity separately; staging does not authorize attachment."
+    },
+    {
+      "family_id": "8913a71b50fb",
+      "group": "Gandhi Sagar Lake",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/gandhi-sagar-lake/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Gandhi-Sagar-Lake-Gaotalav-Umred​-side-view2.webp",
+      "original_filename": "Gandhi-Sagar-Lake-Gaotalav-Umred​-side-view2.webp",
+      "proposed_entity": "Gandhi Sagar Lake, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/8913a71b50fb.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 263194,
+      "checksum": "65d5a0e980e8d101552f6bfb2254b4cdd01bef6caa3161490308f7fbe81bae95",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "e90e840490ac90f0",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "ENTITY_RESOLUTION_REQUIRED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity. Resolve lake/park Place identity separately; staging does not authorize attachment."
+    },
+    {
+      "family_id": "ba40b5d01683",
+      "group": "Gandhi Sagar Lake",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/gandhi-sagar-lake/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Gandhi-Sagar-Lake-Gaotalav-Umred​-side-view3.webp",
+      "original_filename": "Gandhi-Sagar-Lake-Gaotalav-Umred​-side-view3.webp",
+      "proposed_entity": "Gandhi Sagar Lake, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/ba40b5d01683.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 195908,
+      "checksum": "6a50102cef64242ddd148a338cdf9952ebf896e9c52f72b2aec54d2307644bea",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "a7e7e7af7958b63f",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "ENTITY_RESOLUTION_REQUIRED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity. Resolve lake/park Place identity separately; staging does not authorize attachment."
+    },
+    {
+      "family_id": "c33537fcad9d",
+      "group": "Gandhi Sagar Lake",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Gandhi-Sagar-Lake-Gaotalav-Umred%E2%80%8B-side-view1.webp",
+      "original_filename": "Gandhi-Sagar-Lake-Gaotalav-Umred​-side-view1.webp",
+      "proposed_entity": "Gandhi Sagar Lake, Umred",
+      "proposed_role": "PLACE_HERO",
+      "local_staging_reference": "migration-staging/umred/images/c33537fcad9d.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 145410,
+      "checksum": "386135745da6aff66aaf504d0e8b27e5b791b3d9fd5834b7819b80c8b9dc8982",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "b0e9008687a064cf",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "ENTITY_RESOLUTION_REQUIRED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity. Resolve lake/park Place identity separately; staging does not authorize attachment."
+    },
+    {
+      "family_id": "e7e8e515db41",
+      "group": "Gandhi Sagar Lake",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/gandhi-sagar-lake/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Gandhi-Sagar-Lake-Gaotalav-Umred​.webp",
+      "original_filename": "Gandhi-Sagar-Lake-Gaotalav-Umred​.webp",
+      "proposed_entity": "Gandhi Sagar Lake, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/e7e8e515db41.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 211952,
+      "checksum": "cec51c70764c9bf8cb10a9ece2f698f0c87ca18d924e7065a8b078144c335545",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "6163cbdef6e0b820",
+      "duplicate_status": "EXACT_DUPLICATE",
+      "duplicate_of": "2b75b01d8695",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "ENTITY_RESOLUTION_REQUIRED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity. Resolve lake/park Place identity separately; staging does not authorize attachment."
+    },
+    {
+      "family_id": "2b75b01d8695",
+      "group": "Gandhi Sagar Park",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/gandhi-sagar-park/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Gandhi-Sagar-Park-out-side-view.webp",
+      "original_filename": "Gandhi-Sagar-Park-out-side-view.webp",
+      "proposed_entity": "Gandhi Sagar Park, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/2b75b01d8695.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 211952,
+      "checksum": "cec51c70764c9bf8cb10a9ece2f698f0c87ca18d924e7065a8b078144c335545",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "6163cbdef6e0b820",
+      "duplicate_status": "EXACT_DUPLICATE",
+      "duplicate_of": "e7e8e515db41",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "ENTITY_RESOLUTION_REQUIRED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity. Resolve lake/park Place identity separately; staging does not authorize attachment."
+    },
+    {
+      "family_id": "52e1c361ff91",
+      "group": "Gandhi Sagar Park",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/gandhi-sagar-park/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Beautiful-Gandhi-Sagar-Park-in-umred.webp",
+      "original_filename": "Beautiful-Gandhi-Sagar-Park-in-umred.webp",
+      "proposed_entity": "Gandhi Sagar Park, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/52e1c361ff91.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 357882,
+      "checksum": "108f4c5109979c1a49f8cfe721665c0ec580fc1ba88d273019a55af972fe42c4",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "9c9c949959c88632",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "ENTITY_RESOLUTION_REQUIRED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity. Resolve lake/park Place identity separately; staging does not authorize attachment."
+    },
+    {
+      "family_id": "5fe55172c4f8",
+      "group": "Gandhi Sagar Park",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/gandhi-sagar-park/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Gandhi-Sagar-Park-front-view.webp",
+      "original_filename": "Gandhi-Sagar-Park-front-view.webp",
+      "proposed_entity": "Gandhi Sagar Park, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/5fe55172c4f8.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 198982,
+      "checksum": "d4e622c41ccca5cbbdd9499475d2c4bc5a37089eeef4f293eb0c1f4ccf2f2a4f",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "c4a1c9c9b998f0ec",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "ENTITY_RESOLUTION_REQUIRED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity. Resolve lake/park Place identity separately; staging does not authorize attachment."
+    },
+    {
+      "family_id": "605e808cbb9d",
+      "group": "Gandhi Sagar Park",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/gandhi-sagar-park/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Gandhi-Sagar-Park-garden-view.webp",
+      "original_filename": "Gandhi-Sagar-Park-garden-view.webp",
+      "proposed_entity": "Gandhi Sagar Park, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/605e808cbb9d.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 248016,
+      "checksum": "86e62358f0f9f2967c98b1391f1c90305a5fed3899e1f18deb747aae9ee58ff6",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "a79153cbc4541535",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "ENTITY_RESOLUTION_REQUIRED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity. Resolve lake/park Place identity separately; staging does not authorize attachment."
+    },
+    {
+      "family_id": "61e8b62d01a9",
+      "group": "Gandhi Sagar Park",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Gandhi-Sagar-Park.webp",
+      "original_filename": "Gandhi-Sagar-Park.webp",
+      "proposed_entity": "Gandhi Sagar Park, Umred",
+      "proposed_role": "PLACE_HERO",
+      "local_staging_reference": "migration-staging/umred/images/61e8b62d01a9.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 174226,
+      "checksum": "2fde6acb9c947811479a159820113c5020b628838babf0ca16e57fdb5a10e404",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "62631ccce633e3e1",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "ENTITY_RESOLUTION_REQUIRED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity. Resolve lake/park Place identity separately; staging does not authorize attachment."
+    },
+    {
+      "family_id": "a27afad69392",
+      "group": "Gandhi Sagar Park",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/gandhi-sagar-park/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Gandhi-Sagar-Park-Garden-views.webp",
+      "original_filename": "Gandhi-Sagar-Park-Garden-views.webp",
+      "proposed_entity": "Gandhi Sagar Park, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/a27afad69392.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 383756,
+      "checksum": "65b808e137e53bf2133db393841b471a282b0c380cfdad34ee3b9ff92204acba",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "9396ec73c2e2f3f3",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "ENTITY_RESOLUTION_REQUIRED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity. Resolve lake/park Place identity separately; staging does not authorize attachment."
+    },
+    {
+      "family_id": "03901d8cc85c",
+      "group": "Kawrapeth Temple",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/shree-vitthal-rukmini-ganeshrao-maharaj-devasthan-kawrapeth/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Shree-Vitthal-Rukmini-Ganeshrao-Maharaj-Devasthan-Kawrapeth-out-side-view.webp",
+      "original_filename": "Shree-Vitthal-Rukmini-Ganeshrao-Maharaj-Devasthan-Kawrapeth-out-side-view.webp",
+      "proposed_entity": "Shree Vitthal Rukmini Ganeshrao Maharaj Devasthan, Kawrapeth",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/03901d8cc85c.source",
+      "format": "WEBP",
+      "width": 1600,
+      "height": 1200,
+      "aspect_ratio": 1.33333,
+      "file_size": 338618,
+      "checksum": "a74bd907556802448e98bddc657cbd27336acf5851f2f1e6a516526a44034d07",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "8032f3dc14327320",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    },
+    {
+      "family_id": "376456607bc7",
+      "group": "Kawrapeth Temple",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/shree-vitthal-rukmini-ganeshrao-maharaj-devasthan-kawrapeth/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Shree-Vitthal-Rukmini-Ganeshrao-Maharaj-Devasthan-Kawrapeth-darshan.webp",
+      "original_filename": "Shree-Vitthal-Rukmini-Ganeshrao-Maharaj-Devasthan-Kawrapeth-darshan.webp",
+      "proposed_entity": "Shree Vitthal Rukmini Ganeshrao Maharaj Devasthan, Kawrapeth",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/376456607bc7.source",
+      "format": "WEBP",
+      "width": 1600,
+      "height": 1200,
+      "aspect_ratio": 1.33333,
+      "file_size": 292736,
+      "checksum": "a450ca335762941835ec7b2a75c25c2f968a3b5e5b7c53275f17921813f1fce0",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "793d2f4d75e5e460",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    },
+    {
+      "family_id": "74eb8ba3e0da",
+      "group": "Kawrapeth Temple",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Shree-Vitthal-Rukmini-Ganeshrao-Maharaj-Devasthan-Kawrapeth-front-view.webp",
+      "original_filename": "Shree-Vitthal-Rukmini-Ganeshrao-Maharaj-Devasthan-Kawrapeth-front-view.webp",
+      "proposed_entity": "Shree Vitthal Rukmini Ganeshrao Maharaj Devasthan, Kawrapeth",
+      "proposed_role": "PLACE_HERO",
+      "local_staging_reference": "migration-staging/umred/images/74eb8ba3e0da.source",
+      "format": "WEBP",
+      "width": 1600,
+      "height": 1200,
+      "aspect_ratio": 1.33333,
+      "file_size": 347918,
+      "checksum": "a12371265441e3a84ffad4875ccbe4c13eb1218977e52b641efafee81e330c24",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "cdcd0a3563332100",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    },
+    {
+      "family_id": "af317ec2c842",
+      "group": "Kawrapeth Temple",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/shree-vitthal-rukmini-ganeshrao-maharaj-devasthan-kawrapeth/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Shree-Vitthal-Rukmini-Ganeshrao-Maharaj-Devasthan-Kawrapeth-out-side-view2.webp",
+      "original_filename": "Shree-Vitthal-Rukmini-Ganeshrao-Maharaj-Devasthan-Kawrapeth-out-side-view2.webp",
+      "proposed_entity": "Shree Vitthal Rukmini Ganeshrao Maharaj Devasthan, Kawrapeth",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/af317ec2c842.source",
+      "format": "WEBP",
+      "width": 1600,
+      "height": 1200,
+      "aspect_ratio": 1.33333,
+      "file_size": 312422,
+      "checksum": "5d225a65ad85e6bf08b073ff9b287d445975064fc18d8ca3572eb03bb5d0a06c",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "7029b6ba6a71b070",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    },
+    {
+      "family_id": "d320f0605551",
+      "group": "Kawrapeth Temple",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/shree-vitthal-rukmini-ganeshrao-maharaj-devasthan-kawrapeth/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Shree-Vitthal-Rukmini-Ganeshrao-Maharaj-Devasthan-Kawrapeth-inside-door-view.webp",
+      "original_filename": "Shree-Vitthal-Rukmini-Ganeshrao-Maharaj-Devasthan-Kawrapeth-inside-door-view.webp",
+      "proposed_entity": "Shree Vitthal Rukmini Ganeshrao Maharaj Devasthan, Kawrapeth",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/d320f0605551.source",
+      "format": "WEBP",
+      "width": 1600,
+      "height": 1200,
+      "aspect_ratio": 1.33333,
+      "file_size": 349334,
+      "checksum": "0b41501f0ad08ad6712ad0176cb8a70668f415a3292d3dfffc0fd69b80e0dfda",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "aa2a2a72726a6b63",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    },
+    {
+      "family_id": "d828d1132c74",
+      "group": "Kawrapeth Temple",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/shree-vitthal-rukmini-ganeshrao-maharaj-devasthan-kawrapeth/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Shree-Vitthal-Rukmini-Ganeshrao-Maharaj-Devasthan-Kawrapeth-out-side-view-gajanan-maharaj.webp",
+      "original_filename": "Shree-Vitthal-Rukmini-Ganeshrao-Maharaj-Devasthan-Kawrapeth-out-side-view-gajanan-maharaj.webp",
+      "proposed_entity": "Shree Vitthal Rukmini Ganeshrao Maharaj Devasthan, Kawrapeth",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/d828d1132c74.source",
+      "format": "WEBP",
+      "width": 1600,
+      "height": 1200,
+      "aspect_ratio": 1.33333,
+      "file_size": 254140,
+      "checksum": "c0756246ac2d6de6d645ba1fb2020320076eeb36dbee35281da5e073fda45e2d",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "323216f6b6b6b6f6",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    },
+    {
+      "family_id": "abe95a3d7210",
+      "group": "Umred Destination",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Umred.webp",
+      "original_filename": "Umred.webp",
+      "proposed_entity": "Umred",
+      "proposed_role": "DESTINATION_HERO",
+      "local_staging_reference": "migration-staging/umred/images/abe95a3d7210.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 75770,
+      "checksum": "64c4c75f5c6dd357147da5b54205bfe284706c432bb3a4bfa5fd9834ee2777cf",
+      "decoding_succeeds": true,
+      "exif_present": false,
+      "transparency": false,
+      "dhash": "f8dcf0f1e0e03031",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    },
+    {
+      "family_id": "0ede3b0f2b35",
+      "group": "WCL Temple",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Shree-gajanan-maharaj-temple-picnic-spot-wcl-umred.webp",
+      "original_filename": "Shree-gajanan-maharaj-temple-picnic-spot-wcl-umred.webp",
+      "proposed_entity": "Shree Gajanan Maharaj Devasthan WCL, Umred",
+      "proposed_role": "PLACE_HERO",
+      "local_staging_reference": "migration-staging/umred/images/0ede3b0f2b35.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 244516,
+      "checksum": "f51a2c7129e22b6a3815323fb7a7088e3d4ca1edee1fd6621b18d2471be64dc0",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "6478ceb5b6fe6d4c",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    },
+    {
+      "family_id": "30b54087a082",
+      "group": "WCL Temple",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/shree-gajanan-maharaj-devasthan-w-c-l-picnic-spot/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Shree-gajanan-maharaj-temple-picnic-spot-video-point-umred.webp",
+      "original_filename": "Shree-gajanan-maharaj-temple-picnic-spot-video-point-umred.webp",
+      "proposed_entity": "Shree Gajanan Maharaj Devasthan WCL, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/30b54087a082.source",
+      "format": "WEBP",
+      "width": 1170,
+      "height": 650,
+      "aspect_ratio": 1.8,
+      "file_size": 267200,
+      "checksum": "8164c13d1282d42e1affa4dc975de55adde3595851036e480b29c689384a76c9",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "615b9bdee6c1e2e6",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "ACCEPTABLE",
+      "recommended_role": "GALLERY_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    },
+    {
+      "family_id": "575f96a9ccdb",
+      "group": "WCL Temple",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/shree-gajanan-maharaj-devasthan-w-c-l-picnic-spot/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/shiv-temple-picnic-spot-umred-inside-views.webp",
+      "original_filename": "shiv-temple-picnic-spot-umred-inside-views.webp",
+      "proposed_entity": "Shree Gajanan Maharaj Devasthan WCL, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/575f96a9ccdb.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 135952,
+      "checksum": "39da540d57e38a8e2a6cca5e8f76d35ccd25512f14326bdf6f13dfe67d33acbf",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "dccc6c64746cecd8",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    },
+    {
+      "family_id": "591bb1b28387",
+      "group": "WCL Temple",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/shree-gajanan-maharaj-devasthan-w-c-l-picnic-spot/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/shiv-mandir-picnic-spot-umred-inside-view.webp",
+      "original_filename": "shiv-mandir-picnic-spot-umred-inside-view.webp",
+      "proposed_entity": "Shree Gajanan Maharaj Devasthan WCL, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/591bb1b28387.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 214860,
+      "checksum": "b7c6fe08175fb4365be13d9e6a5c986426414caf3b909fa58d6b28b7e5636c65",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "c2776eaa8f77dfad",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    },
+    {
+      "family_id": "6511c3ada86a",
+      "group": "WCL Temple",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/shree-gajanan-maharaj-devasthan-w-c-l-picnic-spot/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Shree-gajanan-maharaj-temple-entry-gate-picnic-spot-umred.webp",
+      "original_filename": "Shree-gajanan-maharaj-temple-entry-gate-picnic-spot-umred.webp",
+      "proposed_entity": "Shree Gajanan Maharaj Devasthan WCL, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/6511c3ada86a.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 195850,
+      "checksum": "84c0f9f6f24fc09a0cc7af14cb8e8be1d48a2e4b53b802ae82aab969d8d61d31",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "3e3cd19988a82f0f",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    },
+    {
+      "family_id": "ac3de7bf2d5e",
+      "group": "WCL Temple",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/shree-gajanan-maharaj-devasthan-w-c-l-picnic-spot/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Shree-gajanan-maharaj-temple-picnic-spot-umred.webp",
+      "original_filename": "Shree-gajanan-maharaj-temple-picnic-spot-umred.webp",
+      "proposed_entity": "Shree Gajanan Maharaj Devasthan WCL, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/ac3de7bf2d5e.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 218352,
+      "checksum": "aa46d85c68b288b43070165234077404ee5622eff73428d4fd03542cedc5d651",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "6d1e4e8e9dd0e0e0",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    },
+    {
+      "family_id": "ad27e4f10664",
+      "group": "WCL Temple",
+      "source_page": "https://maharashtratouristplaces.in/nagpur/umred/shree-gajanan-maharaj-devasthan-w-c-l-picnic-spot/",
+      "source_url": "https://maharashtratouristplaces.in/wp-content/uploads/2026/04/Shree-gajanan-maharaj-temple-outside-view-picnic-spot-umred.webp",
+      "original_filename": "Shree-gajanan-maharaj-temple-outside-view-picnic-spot-umred.webp",
+      "proposed_entity": "Shree Gajanan Maharaj Devasthan WCL, Umred",
+      "proposed_role": "PLACE_GALLERY",
+      "local_staging_reference": "migration-staging/umred/images/ad27e4f10664.source",
+      "format": "WEBP",
+      "width": 1280,
+      "height": 960,
+      "aspect_ratio": 1.33333,
+      "file_size": 149694,
+      "checksum": "9ff20829935c27425543e65ac3043a417f3d22c74d3683a91157376b349c2621",
+      "decoding_succeeds": true,
+      "exif_present": true,
+      "transparency": false,
+      "dhash": "2c79666745cb9880",
+      "duplicate_status": "UNIQUE",
+      "duplicate_of": "",
+      "quality_status": "GOOD",
+      "recommended_role": "HERO_CANDIDATE",
+      "rights_status": "OWNER_CONFIRMATION_REQUIRED",
+      "entity_resolution_status": "DRAFT_ENTITY_RESOLVED",
+      "owner_confirmation_required": "YES",
+      "migration_status": "STAGED_CACHED",
+      "notes": "Subject identity is not verified. Page association is proposed ownership only; no rights inference.",
+      "owner_question": "Can Maharashtra Tourist Places reuse this exact image on the new website? Supply creator/owner, license or permission, usage basis, attribution and rights-confirmation date; confirm subject and proposed entity."
+    }
+  ],
+  "inventory_updates": {
+    "I0034": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0035": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0036": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0037": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0038": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0078": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0079": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0080": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0081": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0082": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0083": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0084": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0085": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0086": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0087": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0088": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0089": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0090": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0091": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0092": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0093": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0094": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0095": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0302": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0303": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0304": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0305": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0336": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0337": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0338": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0339": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0340": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0341": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0342": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0343": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0344": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0345": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0346": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0347": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0348": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0349": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0350": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0351": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0352": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0353": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0354": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0355": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; EXACT_DUPLICATE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0356": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0357": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0358": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0359": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0360": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0361": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0362": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; EXACT_DUPLICATE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0363": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0364": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0365": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0366": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. WordPress resized variant; select approved original later, not a separate asset. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0367": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Lake hero candidate uses the named lake-side view family. Old primary metadata uses a Shiva-temple image; keep that as gallery context pending visual review. Source URL contains a zero-width character. Preserve exact reference; safely encode during later approved retrieval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0368": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0369": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0370": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0371": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0372": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0373": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0374": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0375": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0376": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0377": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; EXACT_DUPLICATE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0378": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; EXACT_DUPLICATE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0379": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; ENTITY_RESOLUTION_REQUIRED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0380": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0381": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0382": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0383": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0384": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0385": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0386": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; ACCEPTABLE; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0387": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; ACCEPTABLE; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0388": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0389": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0390": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0391": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0392": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0393": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0394": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0395": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0396": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0397": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0398": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0399": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0400": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0401": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0402": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0403": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0404": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. WordPress resized variant; select approved original later, not a separate asset. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0405": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0478": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0479": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0480": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0481": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0482": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0483": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0484": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0485": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. WordPress resized variant; select approved original later, not a separate asset. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    },
+    "I0486": {
+      "migration_notes": "Proposed role inferred from old gallery/primary-image metadata. No visual identity, rights, integrity, or suitability verification performed. Temple-view family is the proposed hero candidate. Old primary video-point landscape remains a gallery candidate; visually confirm both before approval. Image reused on listing/related card; belongs to depicted Place/Destination, not automatically to source-page entity. Same filename family appears on multiple pages; URL-level reuse only, not perceptual proof. Do not hotlink or import. Approved files must later enter existing PublicMediaAsset pipeline. Umred pilot: mapping only; no download/import/hotlink/media assignment. OWNER_CONFIRMATION_REQUIRED retained. See umred-pilot-result.md. Image staging audit: STAGED_CACHED; UNIQUE; GOOD; DRAFT_ENTITY_RESOLVED. Rights remain OWNER_CONFIRMATION_REQUIRED. See umred-image-review.csv and umred-image-audit.md."
+    }
+  }
+}

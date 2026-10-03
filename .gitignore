@@ -22,6 +22,8 @@ dist/
 build/
 out/
 backend/uploads/
+# Local-only migration originals and audit previews; never public assets.
+/migration-staging/
 *.log
 
 # IDE / System files
