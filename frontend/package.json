@@ -7,9 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "npm run test:media && npm run test:brand",
+    "test": "npm run test:media && npm run test:brand && npm run test:discovery",
     "test:media": "node --test tests/discovery-media-manifest.test.mjs",
-    "test:brand": "node --test tests/brand-rebrand.test.mjs"
+    "test:brand": "node --test tests/brand-rebrand.test.mjs",
+    "test:discovery": "node --test tests/discovery-routing.test.mjs"
   },
   "dependencies": {
     "next": "16.3.1",

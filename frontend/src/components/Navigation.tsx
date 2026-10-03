@@ -12,7 +12,6 @@ const links = [
   { href: "/destinations", label: "Destinations" },
   { href: "/hotels", label: "Hotels" },
   { href: "/safaris", label: "Safaris" },
-  { href: "/experiences", label: "Experiences" },
   { href: "/advertise", label: "Advertise" },
   { href: "/contact", label: "Contact" },
 ] as const;

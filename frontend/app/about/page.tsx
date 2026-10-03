@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 const CAPABILITIES = [
   { title: "Hotels", body: "Browse active, approved properties and use backend-authoritative room availability, pricing, booking, payment, and cancellation workflows.", href: "/hotels", cta: "Explore hotels" },
   { title: "Managed Jungle Safari assistance", body: "Request availability, provide configured traveller details after availability, review the final price, and wait for official confirmation or permit processing.", href: "/safaris", cta: "Explore Safaris" },
-  { title: "Experiences & culture", body: "Use curated heritage, nature, food, festival, art, and coastal themes to move naturally into canonical Maharashtra destinations.", href: "/experiences", cta: "Explore experiences" },
+  { title: "Destinations & discovery", body: "Use curated heritage, nature, food, festival, art, and coastal themes to move naturally into canonical Maharashtra destinations.", href: "/destinations", cta: "Explore destinations" },
 ] as const;
 
 export default function AboutPage() {

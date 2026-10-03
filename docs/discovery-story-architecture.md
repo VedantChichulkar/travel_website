@@ -32,9 +32,9 @@ Curated-managed fields are title, descriptions, image reference, visibility, fea
 
 Internal source URLs and review dates are intentionally absent from public responses. They are editorial audit metadata rather than customer-facing citation infrastructure.
 
-## `/experiences` responsibility
+## Public discovery entry points
 
-`/experiences` remains a broad, destination-led planning page: thematic routes lead into canonical districts, stays and the separate Safari flow. It no longer acts as a second culture/food database. Its Culture and Food cards link to the corresponding Interest guides, which own editorial lists and story details.
+The redundant `/experiences` page has been removed and permanently redirects to `/destinations`. Homepage discovery cards use the existing nine Interests and canonical `/explore/{interestSlug}` routes. Destination culture links use those same Interest guides with a district filter. Culture and Food guides retain editorial lists and canonical `/discover/{storySlug}` details; Places, Discovery Stories, and Admin Discovery management are preserved.
 
 ## Media and SEO
 

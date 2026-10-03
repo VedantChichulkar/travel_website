@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 import { DestinationPreview } from "@/src/components/DestinationPreview";
-import { ExperiencesSection } from "@/src/components/ExperiencesSection";
+import { InterestsSection } from "@/src/components/InterestsSection";
 import { FeaturedHotels } from "@/src/components/FeaturedHotels";
 import { Hero } from "@/src/components/Hero";
 import { SafariTeaser } from "@/src/components/SafariTeaser";
@@ -40,7 +40,7 @@ export default function Home() {
           <div className="mt-9"><FeaturedHotels /></div>
         </div>
       </section>
-      <ExperiencesSection />
+      <InterestsSection />
       <WhyMaharashtraTouristPlaces />
     </>
   );

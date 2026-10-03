@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 const FOOTER_LINKS = [
-  { title: "Explore", links: [{ label: "Destinations", href: "/destinations" }, { label: "Hotels", href: "/hotels" }, { label: "Safaris", href: "/safaris" }, { label: "Experiences", href: "/experiences" }] },
+  { title: "Explore", links: [{ label: "Destinations", href: "/destinations" }, { label: "Hotels", href: "/hotels" }, { label: "Safaris", href: "/safaris" }] },
   { title: "Maharashtra Tourist Places", links: [{ label: "About", href: "/about" }, { label: "Contact", href: "/contact" }, { label: "Customer login", href: "/login" }] },
   { title: "Support", links: [{ label: "Booking Help", href: "/contact?type=BOOKING_HELP" }, { label: "Cancellation / Refund", href: "/contact?type=CANCELLATION_REFUND" }, { label: "Safari Help", href: "/contact?type=SAFARI_HELP" }] },
   { title: "Hotel partners", links: [{ label: "Become a partner", href: "/partner/register" }, { label: "Partner login", href: "/partner/login" }] },

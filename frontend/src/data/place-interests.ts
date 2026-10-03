@@ -81,6 +81,8 @@ const INTEREST_VISUAL_COPY: Record<KnownInterestSlug, InterestVisualCopy> = {
   },
 };
 
+export const KNOWN_INTEREST_SLUGS = Object.keys(INTEREST_VISUAL_COPY) as KnownInterestSlug[];
+
 export function interestVisual(slug: string): InterestVisual | undefined {
   const copy = INTEREST_VISUAL_COPY[slug as KnownInterestSlug];
   if (!copy) return undefined;
