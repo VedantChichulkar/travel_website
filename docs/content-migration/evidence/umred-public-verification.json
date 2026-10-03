@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/destinations/nagpur/umred",
+    "status": 404,
+    "expected": 404,
+    "total": null,
+    "items": 0
+  },
+  {
+    "path": "/places/nagpur/shree-gajanan-maharaj-devasthan-wcl-umred",
+    "status": 404,
+    "expected": 404,
+    "total": null,
+    "items": 0
+  },
+  {
+    "path": "/places/nagpur/shree-vitthal-rukmini-ganeshrao-maharaj-devasthan-kawrapeth",
+    "status": 404,
+    "expected": 404,
+    "total": null,
+    "items": 0
+  },
+  {
+    "path": "/places?limit=100",
+    "status": 200,
+    "expected": 200,
+    "total": 49,
+    "items": 49
+  },
+  {
+    "path": "/places?interest=sacred-spiritual&limit=100",
+    "status": 200,
+    "expected": 200,
+    "total": 14,
+    "items": 14
+  },
+  {
+    "path": "/discovery-stories?limit=100",
+    "status": 200,
+    "expected": 200,
+    "total": 10,
+    "items": 10
+  },
+  {
+    "path": "/destinations/nagpur/places",
+    "status": 200,
+    "expected": 200,
+    "total": 0,
+    "items": 0
+  }
+]

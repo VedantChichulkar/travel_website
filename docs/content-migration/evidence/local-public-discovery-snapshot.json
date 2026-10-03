@@ -1,0 +1,2353 @@
+{
+  "observed_on": "2026-10-03",
+  "scope": "local public API; excludes drafts/unpublished and is NOT a production database export",
+  "responses": [
+    {
+      "path": "/destinations",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "name": "Ahilyanagar",
+            "slug": "ahilyanagar",
+            "division": "Nashik",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/ahilyanagar"
+          },
+          {
+            "name": "Akola",
+            "slug": "akola",
+            "division": "Amravati",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/akola"
+          },
+          {
+            "name": "Amravati",
+            "slug": "amravati",
+            "division": "Amravati",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/amravati"
+          },
+          {
+            "name": "Beed",
+            "slug": "beed",
+            "division": "Chhatrapati Sambhajinagar",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/beed"
+          },
+          {
+            "name": "Bhandara",
+            "slug": "bhandara",
+            "division": "Nagpur",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/bhandara"
+          },
+          {
+            "name": "Buldhana",
+            "slug": "buldhana",
+            "division": "Amravati",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/buldhana"
+          },
+          {
+            "name": "Chandrapur",
+            "slug": "chandrapur",
+            "division": "Nagpur",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/chandrapur"
+          },
+          {
+            "name": "Chhatrapati Sambhajinagar",
+            "slug": "chhatrapati-sambhajinagar",
+            "division": "Chhatrapati Sambhajinagar",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/chhatrapati-sambhajinagar"
+          },
+          {
+            "name": "Dharashiv",
+            "slug": "dharashiv",
+            "division": "Chhatrapati Sambhajinagar",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/dharashiv"
+          },
+          {
+            "name": "Dhule",
+            "slug": "dhule",
+            "division": "Nashik",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/dhule"
+          },
+          {
+            "name": "Gadchiroli",
+            "slug": "gadchiroli",
+            "division": "Nagpur",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/gadchiroli"
+          },
+          {
+            "name": "Gondia",
+            "slug": "gondia",
+            "division": "Nagpur",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/gondia"
+          },
+          {
+            "name": "Hingoli",
+            "slug": "hingoli",
+            "division": "Chhatrapati Sambhajinagar",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/hingoli"
+          },
+          {
+            "name": "Jalgaon",
+            "slug": "jalgaon",
+            "division": "Nashik",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/jalgaon"
+          },
+          {
+            "name": "Jalna",
+            "slug": "jalna",
+            "division": "Chhatrapati Sambhajinagar",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/jalna"
+          },
+          {
+            "name": "Kolhapur",
+            "slug": "kolhapur",
+            "division": "Pune",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/kolhapur"
+          },
+          {
+            "name": "Latur",
+            "slug": "latur",
+            "division": "Chhatrapati Sambhajinagar",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/latur"
+          },
+          {
+            "name": "Mumbai City",
+            "slug": "mumbai-city",
+            "division": "Konkan",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/mumbai-city"
+          },
+          {
+            "name": "Mumbai Suburban",
+            "slug": "mumbai-suburban",
+            "division": "Konkan",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/mumbai-suburban"
+          },
+          {
+            "name": "Nagpur",
+            "slug": "nagpur",
+            "division": "Nagpur",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/nagpur"
+          },
+          {
+            "name": "Nanded",
+            "slug": "nanded",
+            "division": "Chhatrapati Sambhajinagar",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/nanded"
+          },
+          {
+            "name": "Nandurbar",
+            "slug": "nandurbar",
+            "division": "Nashik",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/nandurbar"
+          },
+          {
+            "name": "Nashik",
+            "slug": "nashik",
+            "division": "Nashik",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/nashik"
+          },
+          {
+            "name": "Palghar",
+            "slug": "palghar",
+            "division": "Konkan",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/palghar"
+          },
+          {
+            "name": "Parbhani",
+            "slug": "parbhani",
+            "division": "Chhatrapati Sambhajinagar",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/parbhani"
+          },
+          {
+            "name": "Pune",
+            "slug": "pune",
+            "division": "Pune",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/pune"
+          },
+          {
+            "name": "Raigad",
+            "slug": "raigad",
+            "division": "Konkan",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/raigad"
+          },
+          {
+            "name": "Ratnagiri",
+            "slug": "ratnagiri",
+            "division": "Konkan",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/ratnagiri"
+          },
+          {
+            "name": "Sangli",
+            "slug": "sangli",
+            "division": "Pune",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/sangli"
+          },
+          {
+            "name": "Satara",
+            "slug": "satara",
+            "division": "Pune",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/satara"
+          },
+          {
+            "name": "Sindhudurg",
+            "slug": "sindhudurg",
+            "division": "Konkan",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/sindhudurg"
+          },
+          {
+            "name": "Solapur",
+            "slug": "solapur",
+            "division": "Pune",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/solapur"
+          },
+          {
+            "name": "Thane",
+            "slug": "thane",
+            "division": "Konkan",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/thane"
+          },
+          {
+            "name": "Wardha",
+            "slug": "wardha",
+            "division": "Nagpur",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/wardha"
+          },
+          {
+            "name": "Washim",
+            "slug": "washim",
+            "division": "Amravati",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/washim"
+          },
+          {
+            "name": "Yavatmal",
+            "slug": "yavatmal",
+            "division": "Amravati",
+            "short_description": null,
+            "hero_image_url": null,
+            "path": "/destinations/yavatmal"
+          }
+        ],
+        "total": 36
+      }
+    },
+    {
+      "path": "/interests",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "name": "Sacred & Spiritual Places",
+            "slug": "sacred-spiritual",
+            "description": null,
+            "display_order": 10,
+            "path": "/explore/sacred-spiritual"
+          },
+          {
+            "name": "Ancient Caves & Rock-Cut Heritage",
+            "slug": "ancient-caves",
+            "description": null,
+            "display_order": 20,
+            "path": "/explore/ancient-caves"
+          },
+          {
+            "name": "Forts & Heritage",
+            "slug": "forts-heritage",
+            "description": null,
+            "display_order": 30,
+            "path": "/explore/forts-heritage"
+          },
+          {
+            "name": "History & Architecture",
+            "slug": "history-architecture",
+            "description": null,
+            "display_order": 40,
+            "path": "/explore/history-architecture"
+          },
+          {
+            "name": "Nature & Hill Escapes",
+            "slug": "nature-hills",
+            "description": null,
+            "display_order": 50,
+            "path": "/explore/nature-hills"
+          },
+          {
+            "name": "Wildlife & Forests",
+            "slug": "wildlife-forests",
+            "description": null,
+            "display_order": 60,
+            "path": "/explore/wildlife-forests"
+          },
+          {
+            "name": "Beaches & Coast",
+            "slug": "beaches-coast",
+            "description": null,
+            "display_order": 70,
+            "path": "/explore/beaches-coast"
+          },
+          {
+            "name": "Culture & Traditions",
+            "slug": "culture-traditions",
+            "description": null,
+            "display_order": 80,
+            "path": "/explore/culture-traditions"
+          },
+          {
+            "name": "Food & Local Flavours",
+            "slug": "food-local-flavours",
+            "description": null,
+            "display_order": 90,
+            "path": "/explore/food-local-flavours"
+          }
+        ],
+        "total": 9
+      }
+    },
+    {
+      "path": "/places?limit=100&offset=0",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "name": "Ajanta Caves",
+            "slug": "ajanta-caves",
+            "short_description": "A UNESCO-listed group of Buddhist rock-cut monuments known for surviving paintings and sculpture.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Chhatrapati Sambhajinagar",
+              "slug": "chhatrapati-sambhajinagar",
+              "path": "/destinations/chhatrapati-sambhajinagar"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "Ancient Caves & Rock-Cut Heritage",
+                "slug": "ancient-caves",
+                "description": null,
+                "display_order": 20,
+                "path": "/explore/ancient-caves"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/chhatrapati-sambhajinagar/ajanta-caves"
+          },
+          {
+            "name": "Ganpatipule Beach and Temple",
+            "slug": "ganpatipule-beach-and-temple",
+            "short_description": "A Konkan beach settlement centred on an active Ganapati temple beside the Arabian Sea.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Ratnagiri",
+              "slug": "ratnagiri",
+              "path": "/destinations/ratnagiri"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "Beaches & Coast",
+                "slug": "beaches-coast",
+                "description": null,
+                "display_order": 70,
+                "path": "/explore/beaches-coast"
+              }
+            ],
+            "path": "/places/ratnagiri/ganpatipule-beach-and-temple"
+          },
+          {
+            "name": "Mahabaleshwar Hill Station",
+            "slug": "mahabaleshwar-hill-station",
+            "short_description": "A Sahyadri hill station shaped by forested valleys, lakes and high viewpoints.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Satara",
+              "slug": "satara",
+              "path": "/destinations/satara"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Nature & Hill Escapes",
+                "slug": "nature-hills",
+                "description": null,
+                "display_order": 50,
+                "path": "/explore/nature-hills"
+              }
+            ],
+            "path": "/places/satara/mahabaleshwar-hill-station"
+          },
+          {
+            "name": "Raigad Fort",
+            "slug": "raigad-fort",
+            "short_description": "The hill fort that served as Chhatrapati Shivaji Maharaj's capital from his coronation in 1674.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Raigad",
+              "slug": "raigad",
+              "path": "/destinations/raigad"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Forts & Heritage",
+                "slug": "forts-heritage",
+                "description": null,
+                "display_order": 30,
+                "path": "/explore/forts-heritage"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/raigad/raigad-fort"
+          },
+          {
+            "name": "Shri Vitthal-Rukmini Temple, Pandharpur",
+            "slug": "shri-vitthal-rukmini-temple",
+            "short_description": "A major Hindu pilgrimage temple at Pandharpur dedicated to Vitthal and Rukmini.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Solapur",
+              "slug": "solapur",
+              "path": "/destinations/solapur"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              }
+            ],
+            "path": "/places/solapur/shri-vitthal-rukmini-temple"
+          },
+          {
+            "name": "Tadoba-Andhari Tiger Reserve",
+            "slug": "tadoba-andhari-tiger-reserve",
+            "short_description": "A tiger reserve in Chandrapur comprising Tadoba National Park and Andhari Wildlife Sanctuary.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Chandrapur",
+              "slug": "chandrapur",
+              "path": "/destinations/chandrapur"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Wildlife & Forests",
+                "slug": "wildlife-forests",
+                "description": null,
+                "display_order": 60,
+                "path": "/explore/wildlife-forests"
+              }
+            ],
+            "path": "/places/chandrapur/tadoba-andhari-tiger-reserve"
+          },
+          {
+            "name": "Ellora Caves",
+            "slug": "ellora-caves",
+            "short_description": "A UNESCO-listed rock-cut complex containing Buddhist, Hindu and Jain monuments.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Chhatrapati Sambhajinagar",
+              "slug": "chhatrapati-sambhajinagar",
+              "path": "/destinations/chhatrapati-sambhajinagar"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "Ancient Caves & Rock-Cut Heritage",
+                "slug": "ancient-caves",
+                "description": null,
+                "display_order": 20,
+                "path": "/explore/ancient-caves"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/chhatrapati-sambhajinagar/ellora-caves"
+          },
+          {
+            "name": "Pench Tiger Reserve, Maharashtra",
+            "slug": "pench-tiger-reserve-maharashtra",
+            "short_description": "A protected forest landscape in Nagpur district centred on Pench National Park and the Pench River.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Nagpur",
+              "slug": "nagpur",
+              "path": "/destinations/nagpur"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Wildlife & Forests",
+                "slug": "wildlife-forests",
+                "description": null,
+                "display_order": 60,
+                "path": "/explore/wildlife-forests"
+              }
+            ],
+            "path": "/places/nagpur/pench-tiger-reserve-maharashtra"
+          },
+          {
+            "name": "Sinhagad Fort",
+            "slug": "sinhagad-fort",
+            "short_description": "A historic hill fort near Pune, formerly known as Kondhana and closely associated with the 1670 battle.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Pune",
+              "slug": "pune",
+              "path": "/destinations/pune"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Forts & Heritage",
+                "slug": "forts-heritage",
+                "description": null,
+                "display_order": 30,
+                "path": "/explore/forts-heritage"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/pune/sinhagad-fort"
+          },
+          {
+            "name": "Tarkarli Beach",
+            "slug": "tarkarli-beach",
+            "short_description": "A sandy Konkan beach near Malvan on the Sindhudurg coast.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Sindhudurg",
+              "slug": "sindhudurg",
+              "path": "/destinations/sindhudurg"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Beaches & Coast",
+                "slug": "beaches-coast",
+                "description": null,
+                "display_order": 70,
+                "path": "/explore/beaches-coast"
+              }
+            ],
+            "path": "/places/sindhudurg/tarkarli-beach"
+          },
+          {
+            "name": "Alibag Beach",
+            "slug": "alibag-beach",
+            "short_description": "The principal town beach at Alibag, facing Kolaba Fort across the tidal shore.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Raigad",
+              "slug": "raigad",
+              "path": "/destinations/raigad"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Beaches & Coast",
+                "slug": "beaches-coast",
+                "description": null,
+                "display_order": 70,
+                "path": "/explore/beaches-coast"
+              }
+            ],
+            "path": "/places/raigad/alibag-beach"
+          },
+          {
+            "name": "Elephanta Caves",
+            "slug": "elephanta-caves",
+            "short_description": "A UNESCO-listed cave complex on Elephanta Island centred on monumental sculptures associated with Shiva.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Raigad",
+              "slug": "raigad",
+              "path": "/destinations/raigad"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "Ancient Caves & Rock-Cut Heritage",
+                "slug": "ancient-caves",
+                "description": null,
+                "display_order": 20,
+                "path": "/explore/ancient-caves"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/raigad/elephanta-caves"
+          },
+          {
+            "name": "Matheran Hill Station",
+            "slug": "matheran-hill-station",
+            "short_description": "A forested hill station in Raigad with walking routes and viewpoints over the Western Ghats.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Raigad",
+              "slug": "raigad",
+              "path": "/destinations/raigad"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Nature & Hill Escapes",
+                "slug": "nature-hills",
+                "description": null,
+                "display_order": 50,
+                "path": "/explore/nature-hills"
+              }
+            ],
+            "path": "/places/raigad/matheran-hill-station"
+          },
+          {
+            "name": "Melghat Tiger Reserve",
+            "slug": "melghat-tiger-reserve",
+            "short_description": "A Satpura tiger reserve in Amravati district containing Gugamal National Park and Melghat Wildlife Sanctuary.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Amravati",
+              "slug": "amravati",
+              "path": "/destinations/amravati"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Wildlife & Forests",
+                "slug": "wildlife-forests",
+                "description": null,
+                "display_order": 60,
+                "path": "/explore/wildlife-forests"
+              }
+            ],
+            "path": "/places/amravati/melghat-tiger-reserve"
+          },
+          {
+            "name": "Chikhaldara Hill Station",
+            "slug": "chikhaldara-hill-station",
+            "short_description": "A forested Satpura hill station overlooking valleys in northern Amravati district.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Amravati",
+              "slug": "amravati",
+              "path": "/destinations/amravati"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Nature & Hill Escapes",
+                "slug": "nature-hills",
+                "description": null,
+                "display_order": 50,
+                "path": "/explore/nature-hills"
+              }
+            ],
+            "path": "/places/amravati/chikhaldara-hill-station"
+          },
+          {
+            "name": "Deekshabhoomi",
+            "slug": "deekshabhoomi",
+            "short_description": "A Buddhist monument in Nagpur marking Dr. B. R. Ambedkar's public conversion to Buddhism in 1956.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Nagpur",
+              "slug": "nagpur",
+              "path": "/destinations/nagpur"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/nagpur/deekshabhoomi"
+          },
+          {
+            "name": "Takht Sachkhand Sri Hazur Sahib",
+            "slug": "takht-sachkhand-sri-hazur-sahib",
+            "short_description": "A major Sikh gurdwara and one of the five Takhts, located in Nanded.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Nanded",
+              "slug": "nanded",
+              "path": "/destinations/nanded"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/nanded/takht-sachkhand-sri-hazur-sahib"
+          },
+          {
+            "name": "Haji Ali Dargah",
+            "slug": "haji-ali-dargah",
+            "short_description": "A mosque and dargah on an islet off Worli in Mumbai.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Mumbai City",
+              "slug": "mumbai-city",
+              "path": "/destinations/mumbai-city"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/mumbai-city/haji-ali-dargah"
+          },
+          {
+            "name": "Sindhudurg Fort",
+            "slug": "sindhudurg-fort",
+            "short_description": "A seventeenth-century sea fort built on an island off the Malvan coast.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Sindhudurg",
+              "slug": "sindhudurg",
+              "path": "/destinations/sindhudurg"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Forts & Heritage",
+                "slug": "forts-heritage",
+                "description": null,
+                "display_order": 30,
+                "path": "/explore/forts-heritage"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              },
+              {
+                "name": "Beaches & Coast",
+                "slug": "beaches-coast",
+                "description": null,
+                "display_order": 70,
+                "path": "/explore/beaches-coast"
+              }
+            ],
+            "path": "/places/sindhudurg/sindhudurg-fort"
+          },
+          {
+            "name": "Amboli Hill Station",
+            "slug": "amboli-hill-station",
+            "short_description": "A high-rainfall Western Ghats landscape with forest, waterfalls and rich biodiversity.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Sindhudurg",
+              "slug": "sindhudurg",
+              "path": "/destinations/sindhudurg"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Nature & Hill Escapes",
+                "slug": "nature-hills",
+                "description": null,
+                "display_order": 50,
+                "path": "/explore/nature-hills"
+              }
+            ],
+            "path": "/places/sindhudurg/amboli-hill-station"
+          },
+          {
+            "name": "Basilica of Our Lady of the Mount",
+            "slug": "basilica-of-our-lady-of-the-mount",
+            "short_description": "A Roman Catholic basilica and pilgrimage shrine on Mount Mary hill in Bandra.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Mumbai Suburban",
+              "slug": "mumbai-suburban",
+              "path": "/destinations/mumbai-suburban"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/mumbai-suburban/basilica-of-our-lady-of-the-mount"
+          },
+          {
+            "name": "Devgiri-Daulatabad Fort",
+            "slug": "devgiri-daulatabad-fort",
+            "short_description": "A medieval fortified citadel, formerly Devgiri, built around a steep conical hill.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Chhatrapati Sambhajinagar",
+              "slug": "chhatrapati-sambhajinagar",
+              "path": "/destinations/chhatrapati-sambhajinagar"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Forts & Heritage",
+                "slug": "forts-heritage",
+                "description": null,
+                "display_order": 30,
+                "path": "/explore/forts-heritage"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/chhatrapati-sambhajinagar/devgiri-daulatabad-fort"
+          },
+          {
+            "name": "Kaas Plateau",
+            "slug": "kaas-plateau",
+            "short_description": "A lateritic wildflower plateau forming a component of the UNESCO-listed Western Ghats property.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Satara",
+              "slug": "satara",
+              "path": "/destinations/satara"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Nature & Hill Escapes",
+                "slug": "nature-hills",
+                "description": null,
+                "display_order": 50,
+                "path": "/explore/nature-hills"
+              }
+            ],
+            "path": "/places/satara/kaas-plateau"
+          },
+          {
+            "name": "Nemgiri Jain Temple Complex",
+            "slug": "nemgiri-jain-temple-complex",
+            "short_description": "A Digambara Jain pilgrimage complex in the hills near Jintur.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": true,
+            "district": {
+              "name": "Parbhani",
+              "slug": "parbhani",
+              "path": "/destinations/parbhani"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/parbhani/nemgiri-jain-temple-complex"
+          },
+          {
+            "name": "Panchgani Table Land",
+            "slug": "panchgani-table-land",
+            "short_description": "A broad laterite plateau above Panchgani with views across the surrounding valleys.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Satara",
+              "slug": "satara",
+              "path": "/destinations/satara"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Nature & Hill Escapes",
+                "slug": "nature-hills",
+                "description": null,
+                "display_order": 50,
+                "path": "/explore/nature-hills"
+              }
+            ],
+            "path": "/places/satara/panchgani-table-land"
+          },
+          {
+            "name": "Trimbakeshwar Temple",
+            "slug": "trimbakeshwar-temple",
+            "short_description": "A historic Shiva temple and pilgrimage centre in Trimbak, west of Nashik.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Nashik",
+              "slug": "nashik",
+              "path": "/destinations/nashik"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/nashik/trimbakeshwar-temple"
+          },
+          {
+            "name": "Ghrishneshwar Temple",
+            "slug": "ghrishneshwar-temple",
+            "short_description": "A historic Shiva temple at Verul near the Ellora Caves.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Chhatrapati Sambhajinagar",
+              "slug": "chhatrapati-sambhajinagar",
+              "path": "/destinations/chhatrapati-sambhajinagar"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/chhatrapati-sambhajinagar/ghrishneshwar-temple"
+          },
+          {
+            "name": "Pratapgad Fort",
+            "slug": "pratapgad-fort",
+            "short_description": "A seventeenth-century hill fort in Satara district overlooking the route near Mahabaleshwar.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Satara",
+              "slug": "satara",
+              "path": "/destinations/satara"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Forts & Heritage",
+                "slug": "forts-heritage",
+                "description": null,
+                "display_order": 30,
+                "path": "/explore/forts-heritage"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/satara/pratapgad-fort"
+          },
+          {
+            "name": "Harihareshwar Beach",
+            "slug": "harihareshwar-beach",
+            "short_description": "A sandy shore at Harihareshwar on the southern Raigad coast.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Raigad",
+              "slug": "raigad",
+              "path": "/destinations/raigad"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Beaches & Coast",
+                "slug": "beaches-coast",
+                "description": null,
+                "display_order": 70,
+                "path": "/explore/beaches-coast"
+              }
+            ],
+            "path": "/places/raigad/harihareshwar-beach"
+          },
+          {
+            "name": "Karla Caves",
+            "slug": "karla-caves",
+            "short_description": "An ancient Buddhist rock-cut complex near Lonavala with a prominent chaitya hall.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Pune",
+              "slug": "pune",
+              "path": "/destinations/pune"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Ancient Caves & Rock-Cut Heritage",
+                "slug": "ancient-caves",
+                "description": null,
+                "display_order": 20,
+                "path": "/explore/ancient-caves"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/pune/karla-caves"
+          },
+          {
+            "name": "Lonavala Hill Station",
+            "slug": "lonavala-hill-station",
+            "short_description": "A Western Ghats hill station surrounded by ridges, lakes and seasonal watercourses.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Pune",
+              "slug": "pune",
+              "path": "/destinations/pune"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Nature & Hill Escapes",
+                "slug": "nature-hills",
+                "description": null,
+                "display_order": 50,
+                "path": "/explore/nature-hills"
+              }
+            ],
+            "path": "/places/pune/lonavala-hill-station"
+          },
+          {
+            "name": "Navegaon National Park",
+            "slug": "navegaon-national-park",
+            "short_description": "A national park in southern Gondia district protecting forest, wetland and wildlife habitat.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Gondia",
+              "slug": "gondia",
+              "path": "/destinations/gondia"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Wildlife & Forests",
+                "slug": "wildlife-forests",
+                "description": null,
+                "display_order": 60,
+                "path": "/explore/wildlife-forests"
+              }
+            ],
+            "path": "/places/gondia/navegaon-national-park"
+          },
+          {
+            "name": "Shivneri Fort",
+            "slug": "shivneri-fort",
+            "short_description": "A fortified hill site at Junnar known as the birthplace of Chhatrapati Shivaji Maharaj.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Pune",
+              "slug": "pune",
+              "path": "/destinations/pune"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Forts & Heritage",
+                "slug": "forts-heritage",
+                "description": null,
+                "display_order": 30,
+                "path": "/explore/forts-heritage"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/pune/shivneri-fort"
+          },
+          {
+            "name": "Tulja Bhavani Temple",
+            "slug": "tulja-bhavani-temple",
+            "short_description": "A prominent Hindu pilgrimage temple dedicated to Bhavani in Tuljapur.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Dharashiv",
+              "slug": "dharashiv",
+              "path": "/destinations/dharashiv"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              }
+            ],
+            "path": "/places/dharashiv/tulja-bhavani-temple"
+          },
+          {
+            "name": "Bhaja Caves",
+            "slug": "bhaja-caves",
+            "short_description": "An early Buddhist rock-cut complex near Lonavala containing a chaitya hall, viharas and stupas.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Pune",
+              "slug": "pune",
+              "path": "/destinations/pune"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Ancient Caves & Rock-Cut Heritage",
+                "slug": "ancient-caves",
+                "description": null,
+                "display_order": 20,
+                "path": "/explore/ancient-caves"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/pune/bhaja-caves"
+          },
+          {
+            "name": "Diveagar Beach",
+            "slug": "diveagar-beach",
+            "short_description": "A sandy Konkan beach in Shrivardhan taluka bordered by coastal village vegetation.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Raigad",
+              "slug": "raigad",
+              "path": "/destinations/raigad"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Beaches & Coast",
+                "slug": "beaches-coast",
+                "description": null,
+                "display_order": 70,
+                "path": "/explore/beaches-coast"
+              }
+            ],
+            "path": "/places/raigad/diveagar-beach"
+          },
+          {
+            "name": "Khandala Ghat",
+            "slug": "khandala-ghat",
+            "short_description": "A mountain-pass landscape where the Bhor Ghat descends through the Western Ghats.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Pune",
+              "slug": "pune",
+              "path": "/destinations/pune"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Nature & Hill Escapes",
+                "slug": "nature-hills",
+                "description": null,
+                "display_order": 50,
+                "path": "/explore/nature-hills"
+              }
+            ],
+            "path": "/places/pune/khandala-ghat"
+          },
+          {
+            "name": "Shree Siddhivinayak Ganapati Temple",
+            "slug": "shree-siddhivinayak-ganapati-temple",
+            "short_description": "An active Ganapati temple established at Prabhadevi in Mumbai in 1801.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Mumbai City",
+              "slug": "mumbai-city",
+              "path": "/destinations/mumbai-city"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/mumbai-city/shree-siddhivinayak-ganapati-temple"
+          },
+          {
+            "name": "Tipeshwar Wildlife Sanctuary",
+            "slug": "tipeshwar-wildlife-sanctuary",
+            "short_description": "A wildlife sanctuary of hilly dry forest in Pandharkawada tehsil, Yavatmal district.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Yavatmal",
+              "slug": "yavatmal",
+              "path": "/destinations/yavatmal"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Wildlife & Forests",
+                "slug": "wildlife-forests",
+                "description": null,
+                "display_order": 60,
+                "path": "/explore/wildlife-forests"
+              }
+            ],
+            "path": "/places/yavatmal/tipeshwar-wildlife-sanctuary"
+          },
+          {
+            "name": "Torna Fort",
+            "slug": "torna-fort",
+            "short_description": "A large hill fort in Pune district associated with the early expansion of Chhatrapati Shivaji Maharaj's territory.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Pune",
+              "slug": "pune",
+              "path": "/destinations/pune"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Forts & Heritage",
+                "slug": "forts-heritage",
+                "description": null,
+                "display_order": 30,
+                "path": "/explore/forts-heritage"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/pune/torna-fort"
+          },
+          {
+            "name": "Kanheri Caves",
+            "slug": "kanheri-caves",
+            "short_description": "A large Buddhist rock-cut monastic complex within Sanjay Gandhi National Park.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Mumbai Suburban",
+              "slug": "mumbai-suburban",
+              "path": "/destinations/mumbai-suburban"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Ancient Caves & Rock-Cut Heritage",
+                "slug": "ancient-caves",
+                "description": null,
+                "display_order": 20,
+                "path": "/explore/ancient-caves"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/mumbai-suburban/kanheri-caves"
+          },
+          {
+            "name": "Kashid Beach",
+            "slug": "kashid-beach",
+            "short_description": "A sandy Arabian Sea beach on the Alibag-Murud coastal route.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Raigad",
+              "slug": "raigad",
+              "path": "/destinations/raigad"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Beaches & Coast",
+                "slug": "beaches-coast",
+                "description": null,
+                "display_order": 70,
+                "path": "/explore/beaches-coast"
+              }
+            ],
+            "path": "/places/raigad/kashid-beach"
+          },
+          {
+            "name": "Lohagad Fort",
+            "slug": "lohagad-fort",
+            "short_description": "A hill fort near Lonavala distinguished by its fortified approach and long defensive history.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Pune",
+              "slug": "pune",
+              "path": "/destinations/pune"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Forts & Heritage",
+                "slug": "forts-heritage",
+                "description": null,
+                "display_order": 30,
+                "path": "/explore/forts-heritage"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/pune/lohagad-fort"
+          },
+          {
+            "name": "Radhanagari Wildlife Sanctuary",
+            "slug": "radhanagari-wildlife-sanctuary",
+            "short_description": "A Western Ghats wildlife sanctuary in Kolhapur district known for its forest and gaur habitat.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Kolhapur",
+              "slug": "kolhapur",
+              "path": "/destinations/kolhapur"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Wildlife & Forests",
+                "slug": "wildlife-forests",
+                "description": null,
+                "display_order": 60,
+                "path": "/explore/wildlife-forests"
+              }
+            ],
+            "path": "/places/kolhapur/radhanagari-wildlife-sanctuary"
+          },
+          {
+            "name": "Bhandardara Lake and Dam",
+            "slug": "bhandardara-lake-and-dam",
+            "short_description": "A reservoir landscape formed by Wilson Dam on the Pravara River in the Sahyadri hills.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Ahilyanagar",
+              "slug": "ahilyanagar",
+              "path": "/destinations/ahilyanagar"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Nature & Hill Escapes",
+                "slug": "nature-hills",
+                "description": null,
+                "display_order": 50,
+                "path": "/explore/nature-hills"
+              }
+            ],
+            "path": "/places/ahilyanagar/bhandardara-lake-and-dam"
+          },
+          {
+            "name": "Guhagar Beach",
+            "slug": "guhagar-beach",
+            "short_description": "A long sandy beach bordered by coconut and betel-nut plantations in northern Ratnagiri district.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Ratnagiri",
+              "slug": "ratnagiri",
+              "path": "/destinations/ratnagiri"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Beaches & Coast",
+                "slug": "beaches-coast",
+                "description": null,
+                "display_order": 70,
+                "path": "/explore/beaches-coast"
+              }
+            ],
+            "path": "/places/ratnagiri/guhagar-beach"
+          },
+          {
+            "name": "Panhala Fort",
+            "slug": "panhala-fort",
+            "short_description": "An extensive Deccan hill fort overlooking the approaches to Kolhapur.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Kolhapur",
+              "slug": "kolhapur",
+              "path": "/destinations/kolhapur"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Forts & Heritage",
+                "slug": "forts-heritage",
+                "description": null,
+                "display_order": 30,
+                "path": "/explore/forts-heritage"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              }
+            ],
+            "path": "/places/kolhapur/panhala-fort"
+          },
+          {
+            "name": "Igatpuri Hill Station",
+            "slug": "igatpuri-hill-station",
+            "short_description": "A Western Ghats hill station set among forested ridges and valleys in Nashik district.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Nashik",
+              "slug": "nashik",
+              "path": "/destinations/nashik"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Nature & Hill Escapes",
+                "slug": "nature-hills",
+                "description": null,
+                "display_order": 50,
+                "path": "/explore/nature-hills"
+              }
+            ],
+            "path": "/places/nashik/igatpuri-hill-station"
+          },
+          {
+            "name": "Murud-Janjira Fort",
+            "slug": "murud-janjira-fort",
+            "short_description": "A fortified island stronghold off Murud, noted for its stone walls and maritime setting.",
+            "image_url": null,
+            "image_alt": null,
+            "image_status": null,
+            "is_featured": false,
+            "district": {
+              "name": "Raigad",
+              "slug": "raigad",
+              "path": "/destinations/raigad"
+            },
+            "destination": null,
+            "interests": [
+              {
+                "name": "Forts & Heritage",
+                "slug": "forts-heritage",
+                "description": null,
+                "display_order": 30,
+                "path": "/explore/forts-heritage"
+              },
+              {
+                "name": "History & Architecture",
+                "slug": "history-architecture",
+                "description": null,
+                "display_order": 40,
+                "path": "/explore/history-architecture"
+              },
+              {
+                "name": "Beaches & Coast",
+                "slug": "beaches-coast",
+                "description": null,
+                "display_order": 70,
+                "path": "/explore/beaches-coast"
+              }
+            ],
+            "path": "/places/raigad/murud-janjira-fort"
+          }
+        ],
+        "total": 49,
+        "limit": 100,
+        "offset": 0
+      }
+    },
+    {
+      "path": "/discovery-stories?limit=100&offset=0",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "title": "Pandharpur Wari",
+            "slug": "pandharpur-wari",
+            "short_description": "A living pilgrimage tradition in which Warkari communities journey towards Pandharpur in devotion to Vitthal.",
+            "image_url": null,
+            "is_featured": true,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "Culture & Traditions",
+                "slug": "culture-traditions",
+                "description": null,
+                "display_order": 80,
+                "path": "/explore/culture-traditions"
+              }
+            ],
+            "districts": [
+              {
+                "name": "Solapur",
+                "slug": "solapur",
+                "path": "/destinations/solapur"
+              }
+            ],
+            "path": "/discover/pandharpur-wari"
+          },
+          {
+            "title": "Varhadi Cuisine of Vidarbha",
+            "slug": "varhadi-cuisine-of-vidarbha",
+            "short_description": "A regional food tradition of Vidarbha shaped by bold seasoning and locally familiar grains, pulses and spices.",
+            "image_url": null,
+            "is_featured": true,
+            "interests": [
+              {
+                "name": "Food & Local Flavours",
+                "slug": "food-local-flavours",
+                "description": null,
+                "display_order": 90,
+                "path": "/explore/food-local-flavours"
+              }
+            ],
+            "districts": [],
+            "path": "/discover/varhadi-cuisine-of-vidarbha"
+          },
+          {
+            "title": "Lavani Performance Tradition",
+            "slug": "lavani-performance-tradition",
+            "short_description": "A Marathi performance tradition bringing together composed verse, expressive movement, rhythm and stagecraft.",
+            "image_url": null,
+            "is_featured": true,
+            "interests": [
+              {
+                "name": "Culture & Traditions",
+                "slug": "culture-traditions",
+                "description": null,
+                "display_order": 80,
+                "path": "/explore/culture-traditions"
+              }
+            ],
+            "districts": [],
+            "path": "/discover/lavani-performance-tradition"
+          },
+          {
+            "title": "Saoji Cuisine of Nagpur",
+            "slug": "saoji-cuisine-of-nagpur",
+            "short_description": "A Nagpur-associated culinary tradition known for deeply seasoned gravies and distinctive spice blends.",
+            "image_url": null,
+            "is_featured": true,
+            "interests": [
+              {
+                "name": "Food & Local Flavours",
+                "slug": "food-local-flavours",
+                "description": null,
+                "display_order": 90,
+                "path": "/explore/food-local-flavours"
+              }
+            ],
+            "districts": [
+              {
+                "name": "Nagpur",
+                "slug": "nagpur",
+                "path": "/destinations/nagpur"
+              }
+            ],
+            "path": "/discover/saoji-cuisine-of-nagpur"
+          },
+          {
+            "title": "Kolhapuri Cuisine",
+            "slug": "kolhapuri-cuisine",
+            "short_description": "Kolhapur's regional cooking tradition, recognised for assertive spice, bhakri and contrasting gravies.",
+            "image_url": null,
+            "is_featured": true,
+            "interests": [
+              {
+                "name": "Food & Local Flavours",
+                "slug": "food-local-flavours",
+                "description": null,
+                "display_order": 90,
+                "path": "/explore/food-local-flavours"
+              }
+            ],
+            "districts": [
+              {
+                "name": "Kolhapur",
+                "slug": "kolhapur",
+                "path": "/destinations/kolhapur"
+              }
+            ],
+            "path": "/discover/kolhapuri-cuisine"
+          },
+          {
+            "title": "Warli Art and Community Storytelling",
+            "slug": "warli-art-and-community-storytelling",
+            "short_description": "An Indigenous visual tradition associated with Warli communities in and around Maharashtra's Palghar region.",
+            "image_url": null,
+            "is_featured": true,
+            "interests": [
+              {
+                "name": "Culture & Traditions",
+                "slug": "culture-traditions",
+                "description": null,
+                "display_order": 80,
+                "path": "/explore/culture-traditions"
+              }
+            ],
+            "districts": [
+              {
+                "name": "Palghar",
+                "slug": "palghar",
+                "path": "/destinations/palghar"
+              }
+            ],
+            "path": "/discover/warli-art-and-community-storytelling"
+          },
+          {
+            "title": "Malvani Cuisine of the Konkan Coast",
+            "slug": "malvani-cuisine-of-the-konkan-coast",
+            "short_description": "A coastal food tradition associated with Malvan and the wider Konkan, where coconut, kokum and seafood are recurring elements.",
+            "image_url": null,
+            "is_featured": true,
+            "interests": [
+              {
+                "name": "Food & Local Flavours",
+                "slug": "food-local-flavours",
+                "description": null,
+                "display_order": 90,
+                "path": "/explore/food-local-flavours"
+              }
+            ],
+            "districts": [
+              {
+                "name": "Sindhudurg",
+                "slug": "sindhudurg",
+                "path": "/destinations/sindhudurg"
+              }
+            ],
+            "path": "/discover/malvani-cuisine-of-the-konkan-coast"
+          },
+          {
+            "title": "Paithani Weaving",
+            "slug": "paithani-weaving",
+            "short_description": "A handwoven silk tradition associated with Paithan and the important weaving centre of Yeola.",
+            "image_url": null,
+            "is_featured": true,
+            "interests": [
+              {
+                "name": "Culture & Traditions",
+                "slug": "culture-traditions",
+                "description": null,
+                "display_order": 80,
+                "path": "/explore/culture-traditions"
+              }
+            ],
+            "districts": [
+              {
+                "name": "Chhatrapati Sambhajinagar",
+                "slug": "chhatrapati-sambhajinagar",
+                "path": "/destinations/chhatrapati-sambhajinagar"
+              },
+              {
+                "name": "Nashik",
+                "slug": "nashik",
+                "path": "/destinations/nashik"
+              }
+            ],
+            "path": "/discover/paithani-weaving"
+          },
+          {
+            "title": "Ganeshotsav Traditions Across Maharashtra",
+            "slug": "ganeshotsav-traditions-across-maharashtra",
+            "short_description": "Home and community observances that bring devotion, craft, music and neighbourhood participation together.",
+            "image_url": null,
+            "is_featured": true,
+            "interests": [
+              {
+                "name": "Sacred & Spiritual Places",
+                "slug": "sacred-spiritual",
+                "description": null,
+                "display_order": 10,
+                "path": "/explore/sacred-spiritual"
+              },
+              {
+                "name": "Culture & Traditions",
+                "slug": "culture-traditions",
+                "description": null,
+                "display_order": 80,
+                "path": "/explore/culture-traditions"
+              }
+            ],
+            "districts": [],
+            "path": "/discover/ganeshotsav-traditions-across-maharashtra"
+          },
+          {
+            "title": "Puran Poli and Modak at Festival Tables",
+            "slug": "puran-poli-and-modak-at-festival-tables",
+            "short_description": "Two sweets that appear in Maharashtra's festival food traditions across homes and communities.",
+            "image_url": null,
+            "is_featured": true,
+            "interests": [
+              {
+                "name": "Food & Local Flavours",
+                "slug": "food-local-flavours",
+                "description": null,
+                "display_order": 90,
+                "path": "/explore/food-local-flavours"
+              }
+            ],
+            "districts": [],
+            "path": "/discover/puran-poli-and-modak-at-festival-tables"
+          }
+        ],
+        "total": 10
+      }
+    },
+    {
+      "path": "/destinations/akola/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/amravati/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/buldhana/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/washim/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/yavatmal/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/chhatrapati-sambhajinagar/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/beed/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/jalna/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/nanded/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/parbhani/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/hingoli/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/latur/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/dharashiv/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/mumbai-city/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/mumbai-suburban/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/thane/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/palghar/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/raigad/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/ratnagiri/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/sindhudurg/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/bhandara/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/chandrapur/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/gadchiroli/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/gondia/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/nagpur/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/wardha/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/dhule/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/jalgaon/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/nandurbar/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/nashik/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/ahilyanagar/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/kolhapur/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/pune/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/sangli/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/satara/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    },
+    {
+      "path": "/destinations/solapur/places",
+      "status": 200,
+      "data": {
+        "items": [],
+        "total": 0
+      }
+    }
+  ]
+}

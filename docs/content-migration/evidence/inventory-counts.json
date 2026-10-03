@@ -1,0 +1,43 @@
+{
+  "pages_discovered": 44,
+  "pages_http_200": 44,
+  "empty_placeholders": 8,
+  "proposed_destinations": 6,
+  "proposed_places": 17,
+  "district_pages_with_content": 3,
+  "proposed_discovery_stories": 0,
+  "actions": {
+    "SKIP": 18,
+    "ENRICH_EXISTING": 7,
+    "CREATE": 17,
+    "POSSIBLE_DUPLICATE": 2
+  },
+  "place_actions": {
+    "CREATE": 11,
+    "ENRICH_EXISTING": 4,
+    "POSSIBLE_DUPLICATE": 2
+  },
+  "existing_place_matches": 4,
+  "existing_district_matches_with_content": 3,
+  "existing_matches_including_empty_placeholders": 13,
+  "local_published_destinations": 0,
+  "records_marked_review_required": 27,
+  "place_records_with_volatile_information": 17,
+  "faq_pairs_raw": 142,
+  "faq_pairs_unique_within_pages": 140,
+  "image_page_url_rows": 486,
+  "distinct_image_urls": 237,
+  "image_filename_families": 124,
+  "image_families_reused_on_multiple_pages": 24,
+  "image_role_counts": {
+    "PLACE_GALLERY": 191,
+    "PLACE_HERO": 281,
+    "DESTINATION_HERO": 14
+  },
+  "rights_counts_rows": {
+    "OWNER_CONFIRMATION_REQUIRED": 486
+  },
+  "image_bytes_downloaded": 0,
+  "umred_place_candidates": 4,
+  "umred_image_families": 26
+}

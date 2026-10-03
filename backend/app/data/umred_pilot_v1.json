@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "district_slug": "nagpur",
+  "destination": {
+    "name": "Umred",
+    "slug": "umred",
+    "aliases": [
+      "Umred tehsil",
+      "Umred taluka",
+      "Umred town"
+    ]
+  },
+  "places": [
+    {
+      "record_id": "C033",
+      "name": "Shree Gajanan Maharaj Devasthan WCL, Umred",
+      "slug": "shree-gajanan-maharaj-devasthan-wcl-umred",
+      "aliases": [
+        "Shree Gajanan Maharaj Devasthan W.C.L (Picnic Spot) Umred",
+        "Shree Gajanan maharaj devasthan W.C.L (picnic spot) - Maharashtra Tourist Places"
+      ],
+      "source_url": "https://maharashtratouristplaces.in/nagpur/umred/shree-gajanan-maharaj-devasthan-w-c-l-picnic-spot/",
+      "interest_slugs": [
+        "sacred-spiritual",
+        "nature-hills"
+      ],
+      "fields": {
+        "short_description": "Shree Gajanan maharaj devasthan W.C.L (picnic spot) is located near Gangapur  in Umred",
+        "description": "Shree Gajanan Maharaj Devasthan, located near Umred in the Nagpur district of Maharashtra, is a Calm and beautiful place known for both its religious importance and natural surroundings. It lies in the W.C.L (Western Coalfields Limited) area and is a popular spot for devotees as well as visitors looking for a peaceful picnic location.\nThe main temple is dedicated to Gajanan Maharaj, a respected saint known for his teachings of devotion, faith, and simplicity. Devotees visit the temple regularly to offer prayers and experience spiritual peace.\nAlong with this, there is also a Lord Shiva temple (Shiv Temple) within the premises. This adds to the religious importance of the place, as visitors can worship both Gajanan Maharaj and Lord Shiva in one visit. The Shiv temple creates a divine and calm atmosphere, especially during festivals like Mahashivratri, when many devotees come for darshan.\nThe surroundings of the devasthan are filled with greenery, open spaces, and fresh air. Because of this natural beauty, the place is also known as a picnic spot. Families and friends visit here to relax, spend time together, and enjoy nature. It is also suitable for meditation, photography, and quiet reflection.\nThe best time to visit is during the morning and evening, when the weather is pleasant. Winter and monsoon seasons make the environment even more enjoyable.\nVisitors are advised to carry their own food and water, keep the area clean, and respect the religious atmosphere of the place.\nOverall, Shree Gajanan Maharaj Devasthan (WCL, Umred ), along with its Shiv Temple, is a perfect combination of spirituality and nature, making it a peaceful destination for both devotees and picnic lovers.",
+        "address": "V872+8JQ, MSH 9, Gangapur, Maharashtra 441203",
+        "opening_hours": "Open daily : 5 am to 7 pm",
+        "entry_fee_info": "Usually no entry fee there. It’s a temple area, but rules can vary slightly depending on WCL management.",
+        "getting_there": "Where can I catch the bus in Nagpur? Main points: Ganeshpeth Bus Stand or you can take Travels near by Baidyanath Chowk Bus Stop.\nWhere should I go by bus or travels? You should go up to Gangapur chowk kawrapeth from there the place is on 5 minute walking distance\nIs public transport available? Bus till Umred, Then auto/shared vehicle for the final stretch",
+        "best_time_to_visit": "Winter and monsoon Morning and evening"
+      },
+      "faqs": [
+        {
+          "question": "What is this place?",
+          "answer": "It’s a peaceful temple dedicated to Gajanan Maharaj, located in a scenic WCL (Western Coalfields) area. People visit for darshan + picnic + nature."
+        },
+        {
+          "question": "Is it good for a picnic?",
+          "answer": "Yes 👍 Quiet surroundings Greenery and open space Suitable for families & small groups"
+        },
+        {
+          "question": "Is there any entry fee?",
+          "answer": "Usually no entry fee there. It’s a temple area, but rules can vary slightly depending on WCL management."
+        },
+        {
+          "question": "How far is it from Nagpur?",
+          "answer": "Around 40 to 45 km from Nagpur Takes about 45 minute  to 1 hour by road"
+        },
+        {
+          "question": "What is the ticket price of bus?",
+          "answer": "Around ₹50 – ₹80"
+        },
+        {
+          "question": "Where can I catch the bus in Nagpur?",
+          "answer": "Main points: Ganeshpeth Bus Stand or you can take Travels near by Baidyanath Chowk Bus Stop."
+        },
+        {
+          "question": "Where should I go by bus or travels?",
+          "answer": "You should go up to Gangapur chowk kawrapeth from there the place is on 5 minute walking distance"
+        },
+        {
+          "question": "Is public transport available?",
+          "answer": "Bus till Umred, Then auto/shared vehicle for the final stretch"
+        },
+        {
+          "question": "Is the road good?",
+          "answer": "Main road (Umred Road) is good Last stretch may be slightly rough/rural"
+        },
+        {
+          "question": "Best time to visit?",
+          "answer": "Winter and monsoon Morning and evening"
+        }
+      ]
+    },
+    {
+      "record_id": "C034",
+      "name": "Shree Vitthal Rukmini Ganeshrao Maharaj Devasthan, Kawrapeth",
+      "slug": "shree-vitthal-rukmini-ganeshrao-maharaj-devasthan-kawrapeth",
+      "aliases": [
+        "Shree Vitthal Rukmini Ganeshrao Maharaj Devasthan Kawrapeth - Umred",
+        "Shree Vitthal Rukmini Ganeshrao Maharaj Devasthan Kawrapeth - Maharashtra Tourist Places"
+      ],
+      "source_url": "https://maharashtratouristplaces.in/nagpur/umred/shree-vitthal-rukmini-ganeshrao-maharaj-devasthan-kawrapeth/",
+      "interest_slugs": [
+        "sacred-spiritual"
+      ],
+      "fields": {
+        "short_description": "Shree Vitthal Rukmini Ganeshrao Maharaj Devasthan is located in Kawrapeth, which falls under Umred taluka in Nagpur district, Maharashtra.",
+        "description": "Shree Vitthal Rukmini Ganeshrao Maharaj Devasthan, located in the peaceful area of Kawrapeth, Umred near Nagpur, is a sacred place of devotion and spiritual faith. This holy temple is dedicated to Lord Vitthal, Goddess Rukmini, and Ganeshrao Maharaj, attracting devotees from nearby regions.\nThe temple is known for its calm and divine atmosphere, where devotees come to seek blessings, perform Worship, and participate in various Spiritual programs. Special events and festivals are celebrated with great devotion and energy, bringing the community together in devotion.\nThis temple very close and on 10 minutes walking distance from Gandhi Sagar Lake (Gaotalav)",
+        "address": "V857+HV, Kawrapeth, Gangapur Umred Rural, Maharashtra 441203",
+        "opening_hours": "Open daily 5.00 Am to 8.00 pm",
+        "entry_fee_info": "No, entry to the temple is free for all devotees.",
+        "getting_there": "How can I reach the temple? The temple is easily accessible by road from Nagpur. You can travel by your own private vehicle, taxi, or local buses to Umred and then reach Kawrapeth.",
+        "best_time_to_visit": null
+      },
+      "faqs": [
+        {
+          "question": "Where is the temple located?",
+          "answer": "Shree Vitthal Rukmini Ganeshrao Maharaj Devasthan is located in Kawrapeth, Umred, near Nagpur in Maharashtra, India."
+        },
+        {
+          "question": "How can I reach the temple?",
+          "answer": "The temple is easily accessible by road from Nagpur. You can travel by your own private vehicle, taxi, or local buses to Umred and then reach Kawrapeth."
+        },
+        {
+          "question": "Is photography allowed inside the temple?",
+          "answer": "Photography rules may vary. It’s recommended to ask temple authorities before taking photos inside."
+        },
+        {
+          "question": "Is there any entry fee to visit the temple?",
+          "answer": "No, entry to the temple is free for all devotees."
+        },
+        {
+          "question": "How far is the temple from Nagpur?",
+          "answer": "The temple is approximately 40 to 50 km from Nagpur, depending on the route."
+        }
+      ]
+    }
+  ],
+  "held": [
+    {
+      "record_id": "C031",
+      "name": "Gandhi Sagar Lake, Umred",
+      "slug": "gandhi-sagar-lake-umred",
+      "reason": "POSSIBLE_DUPLICATE: lake/park identity and boundary unresolved"
+    },
+    {
+      "record_id": "C032",
+      "name": "Gandhi Sagar Park, Umred",
+      "slug": "gandhi-sagar-park-umred",
+      "reason": "POSSIBLE_DUPLICATE: lake/park identity and boundary unresolved"
+    }
+  ]
+}

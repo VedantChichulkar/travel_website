@@ -1,0 +1,167 @@
+{
+  "observed_on": "2026-10-03",
+  "checks": [
+    {
+      "check": "44 unique content URLs",
+      "result": "PASS"
+    },
+    {
+      "check": "44 unique canonical URLs",
+      "result": "PASS"
+    },
+    {
+      "check": "CSV content values exactly match reviewed data",
+      "result": "PASS"
+    },
+    {
+      "check": "CSV image values exactly match reviewed data",
+      "result": "PASS"
+    },
+    {
+      "check": "No ragged CSV rows",
+      "result": "PASS"
+    },
+    {
+      "check": "Crawl exhausted its discovered URL queue",
+      "result": "PASS"
+    },
+    {
+      "check": "All public HTML reads returned 200 within old-site host",
+      "result": "PASS"
+    },
+    {
+      "check": "Every normalized discovered internal HTML link processed",
+      "result": "PASS"
+    },
+    {
+      "check": "All 42 sitemap pages processed",
+      "result": "PASS"
+    },
+    {
+      "check": "Two link-only omissions captured",
+      "result": "PASS"
+    },
+    {
+      "check": "All sitemap image declarations inventoried",
+      "result": "PASS"
+    },
+    {
+      "check": "Full repository baseline recorded",
+      "result": "PASS"
+    },
+    {
+      "check": "Local public snapshot contains no failed reads",
+      "result": "PASS"
+    },
+    {
+      "check": "All 36 public Destination lists captured",
+      "result": "PASS"
+    },
+    {
+      "check": "Local public lists have no published Destinations",
+      "result": "PASS"
+    },
+    {
+      "check": "17 Places and six Destination candidates captured",
+      "result": "PASS"
+    },
+    {
+      "check": "Every proposed Place has a canonical District",
+      "result": "PASS"
+    },
+    {
+      "check": "No second Interest taxonomy used",
+      "result": "PASS"
+    },
+    {
+      "check": "No duplicate proposed Place district/slug identities",
+      "result": "PASS"
+    },
+    {
+      "check": "All proposed Destination assignments resolve in same District",
+      "result": "PASS"
+    },
+    {
+      "check": "Uncertain Harihar/Ambhora Destination assignments remain empty",
+      "result": "PASS"
+    },
+    {
+      "check": "All 17 About texts and source FAQ sets captured",
+      "result": "PASS"
+    },
+    {
+      "check": "All Place operational claims marked unverified/volatile",
+      "result": "PASS"
+    },
+    {
+      "check": "Four curated matches preserve existing scoped slugs",
+      "result": "PASS"
+    },
+    {
+      "check": "Lake/Park unresolved pair has no automatic create/merge",
+      "result": "PASS"
+    },
+    {
+      "check": "Complete four-Place Umred pilot and 31 FAQ pairs",
+      "result": "PASS"
+    },
+    {
+      "check": "142 raw / 140 unique-within-page FAQs reconciled",
+      "result": "PASS"
+    },
+    {
+      "check": "486 unique image page/URL rows and 237 exact URLs",
+      "result": "PASS"
+    },
+    {
+      "check": "124 approximate image filename families reconciled",
+      "result": "PASS"
+    },
+    {
+      "check": "Every image role and source page is explicit",
+      "result": "PASS"
+    },
+    {
+      "check": "Image relationships resolve to mapped entity type",
+      "result": "PASS"
+    },
+    {
+      "check": "All image rights require owner confirmation",
+      "result": "PASS"
+    },
+    {
+      "check": "JSON-valued CSV fields parse",
+      "result": "PASS"
+    },
+    {
+      "check": "CSV fields contain no accidental spreadsheet formulas",
+      "result": "PASS"
+    },
+    {
+      "check": "No image/binary files in artifact directory",
+      "result": "PASS"
+    },
+    {
+      "check": "Zero image bytes requested/recorded",
+      "result": "PASS"
+    },
+    {
+      "check": "Requested five artifacts and repository map exist",
+      "result": "PASS"
+    },
+    {
+      "check": "No unfilled document templates",
+      "result": "PASS"
+    }
+  ],
+  "check_count": 38,
+  "sitemap_pages": 42,
+  "link_only_pages": [
+    "https://maharashtratouristplaces.in/chhatrapati-sambhaji-nagar/khuldabad/",
+    "https://maharashtratouristplaces.in/nagpur/umred/gandhi-sagar-park/"
+  ],
+  "uncrawled_internal_urls": [],
+  "csv_exact_roundtrip": "PASS (artifact-tool export builder)",
+  "image_bytes_downloaded": 0,
+  "application_changes": "NONE; docs/content-migration only"
+}

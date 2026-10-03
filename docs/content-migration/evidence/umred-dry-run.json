@@ -1,0 +1,51 @@
+{
+  "dataset": "umred-text-v1",
+  "district_id": 25,
+  "destination_id": 408,
+  "events": [
+    {
+      "record_id": "C030",
+      "action": "CREATE",
+      "decision": "CREATE",
+      "id": 408,
+      "slug": "umred",
+      "published": false,
+      "reason": "No source overview; no invented summary, FAQs or media. Existing content/state preserved."
+    },
+    {
+      "record_id": "C031",
+      "action": "REVIEW",
+      "decision": "POSSIBLE_DUPLICATE",
+      "reason": "POSSIBLE_DUPLICATE: lake/park identity and boundary unresolved"
+    },
+    {
+      "record_id": "C032",
+      "action": "REVIEW",
+      "decision": "POSSIBLE_DUPLICATE",
+      "reason": "POSSIBLE_DUPLICATE: lake/park identity and boundary unresolved"
+    },
+    {
+      "record_id": "C033",
+      "action": "CREATE",
+      "decision": "CREATE",
+      "id": 392,
+      "slug": "shree-gajanan-maharaj-devasthan-wcl-umred",
+      "destination_id": 408,
+      "published": false,
+      "faqs": 10,
+      "reason": "Source text imported as draft; linked Destination lacks publishable overview."
+    },
+    {
+      "record_id": "C034",
+      "action": "CREATE",
+      "decision": "CREATE",
+      "id": 393,
+      "slug": "shree-vitthal-rukmini-ganeshrao-maharaj-devasthan-kawrapeth",
+      "destination_id": 408,
+      "published": false,
+      "faqs": 5,
+      "reason": "Source text imported as draft; linked Destination lacks publishable overview."
+    }
+  ],
+  "mode": "dry-run (rolled back)"
+}
